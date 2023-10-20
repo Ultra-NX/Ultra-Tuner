@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Fizeau - Delete",
+        "path": "/atmosphere/contents/0100000000000F12",
+        "path2": "/switch/.overlays/Fizeau.ovl",
+        "path3": "/switch/Fizeau/"
+    },
+    {
+        "name": "SysDVR - Delete",
+        "path": "/atmosphere/contents/00FF0000A53BB665",
+        "path2": "/switch/.overlays/sysdvr-overlay.ovl",
+        "path3": "/switch/SysDVR-conf.nro"
+    },
+    {
+        "name": "Sys-ftpd - Delete",
+        "path": "/atmosphere/contents/420000000000000E",
+        "path2": "/config/sys-ftpd/"
+    },
+    {
+        "name": "Reports - Clear",
+        "path": "/atmosphere/crash_reports",
+        "path2": "/atmosphere/erpt_reports",
+        "path3": "/atmosphere/fatal_reports"
+    },
+    {
+        "name": "4ifir Wizard - Trash",
+        "path": "/switch/.packages/4IFIR Wizard"
+    },
+    {
+        "name": "OC Toolkit - Example",
+        "path": "/switch/.packages/OC Toolkit"
+    },
+    {
+        "name": "Ultra Tuner - Why?",
+        "path": "/switch/.packages/Ultra Tuner"
+    }
+]

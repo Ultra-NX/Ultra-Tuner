@@ -1,0 +1,18 @@
+[
+    {
+        "name": "L+R+Up",
+        "hex": "L+R+DUP"
+    },
+    {
+        "name": "L+Down+R3",
+        "hex": "L+DDOWN+RS"
+    },
+    {
+        "name": "L2+R2+Down",
+        "hex": "ZL+ZR+DDOWN"
+    },
+    {
+        "name": "Plus+Minus",
+        "hex": "PLUS+MINUS"
+    }
+]

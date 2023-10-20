@@ -1,0 +1,12 @@
+[
+    {
+        "name": "60 Fps - Ultra",
+        "label": "60 Fps",
+        "hex": "u32!60"
+    },
+    {
+        "name": "30 Fps - Stock",
+        "label": "30 Fps",
+        "hex": "u32!30"
+    }
+]

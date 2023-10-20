@@ -1,0 +1,82 @@
+[
+    {
+        "name": "550 mV - Danger",
+        "label": "550 mV",
+        "dec": "550000"
+    },
+    {
+        "name": "560 mV - Danger",
+        "label": "560 mV",
+        "dec": "560000"
+    },
+    {
+        "name": "570 mV - Unsafe",
+        "label": "570 mV",
+        "dec": "570000"
+    },
+    {
+        "name": "580 mV - Unsafe",
+        "label": "580 mV",
+        "dec": "580000"
+    },
+    {
+        "name": "590 mV",
+        "label": "590 mV",
+        "dec": "590000"
+    },
+    {
+        "name": "600 mV",
+        "label": "600 mV",
+        "dec": "600000"
+    },
+    {
+        "name": "610 mV",
+        "label": "610 mV",
+        "dec": "610000"
+    },
+    {
+        "name": "620 mV",
+        "label": "620 mV",
+        "dec": "620000"
+    },
+    {
+        "name": "630 mV",
+        "label": "630 mV",
+        "dec": "630000"
+    },
+    {
+        "name": "640 mV",
+        "label": "640 mV",
+        "dec": "640000"
+    },
+    {
+        "name": "650 mV - Core",
+        "label": "650 mV",
+        "dec": "650000"
+    },
+    {
+        "name": "660 mV",
+        "label": "660 mV",
+        "dec": "660000"
+    },
+    {
+        "name": "670 mV",
+        "label": "670 mV",
+        "dec": "670000"
+    },
+    {
+        "name": "680 mV",
+        "label": "680 mV",
+        "dec": "680000"
+    },
+    {
+        "name": "690 mV - Unsafe",
+        "label": "690 mV",
+        "dec": "690000"
+    },
+    {
+        "name": "700 mV - Unsafe",
+        "label": "700 mV",
+        "dec": "700000"
+    }
+]

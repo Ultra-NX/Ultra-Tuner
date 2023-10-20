@@ -1,0 +1,27 @@
+[
+    {
+        "name": "20 Mbs - Ultra",
+        "label": "20 Mbs",
+        "hex": "u32!0x1312D00"
+    },
+    {
+        "name": "15 Mbs",
+        "label": "15 Mbs",
+        "hex": "u32!0xE4E1C0"
+    },
+    {
+        "name": "10 Mbs",
+        "label": "10 Mbs",
+        "hex": "u32!0xA00000"
+    },
+    {
+        "name": "7.5 Mbs",
+        "label": "7.5 Mbs",
+        "hex": "u32!0x780000"
+    },
+    {
+        "name": "5 Mbs - Stock",
+        "label": "5 Mbs",
+        "hex": "u32!0x42D560"
+    }
+]
