@@ -1,42 +1,42 @@
 [
     {
         "name": "Ancestors Legacy",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Ancestors%20Legacy.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/Ancestors%20Legacy.zip",
         "path": "/atmosphere/contents/"
     },
     {
         "name": "Astral Chain",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Astral%20Chain.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/Astral%20Chain.zip",
         "path": "/"
     },
     {
         "name": "Bloodstained RotN",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Bloodstained%20RotN.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/Bloodstained%20RotN.zip",
         "path": "/atmosphere/contents/"
     },
     {
         "name": "DOOM Eternal",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/DOOM%20Eternal.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/DOOM%20Eternal.zip",
         "path": "/atmosphere/contents/"
     },
     {
         "name": "DOOM 2016",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/DOOM.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/DOOM.zip",
         "path": "/atmosphere/contents/"
     },
     {
         "name": "It Takes Two",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/It%20Takes%20Two.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/It%20Takes%20Two.zip",
         "path": "/atmosphere/contents/"
     },
     {
         "name": "Zelda TotK - 1.2.1",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Zelda%20TotK%201.2.1.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/Zelda%20TotK%201.2.1.zip",
         "path": "/"
     },
     {
         "name": "Zelda TotK - 1.1.2",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Zelda%20TotK%201.1.2.zip",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/4MODS/Zelda%20TotK%201.1.2.zip",
         "path": "/atmosphere/"
     }
 ]
