@@ -1,6 +1,6 @@
 [
     {
-        "name": "DBI RU - 624",
+        "name": "DBI RU - 627",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20RU.zip",
         "path": "/switch/"
     },
@@ -53,6 +53,11 @@
         "name": "Fizeau - 2.4.1",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/Fizeau%20Full.zip",
         "path": "/"
+    },
+    {
+        "name": "MicroMemBench - 0.5.0",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemBench%205.0.zip",
+        "path": "/switch/"
     },
     {
         "name": "MicroMemBench - 0.5.1",

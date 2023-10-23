@@ -85,7 +85,7 @@
         "dec": "2169600"
     },
     {
-        "name": "2188 MHz - Ultra",
+        "name": "2188 MHz",
         "label": "2188 MHz",
         "dec": "2188800"
     },
@@ -105,7 +105,7 @@
         "dec": "2246400"
     },
     {
-        "name": "2265 MHz",
+        "name": "2265 MHz - Mariko",
         "label": "2265 MHz",
         "dec": "2265600"
     },
@@ -160,7 +160,7 @@
         "dec": "2457600"
     },
     {
-        "name": "2476 MHz",
+        "name": "2476 MHz - You're insane!",
         "label": "2476 MHz",
         "dec": "2476800"
     },
@@ -170,7 +170,7 @@
         "dec": "2496000"
     },
     {
-        "name": "2515 MHz - You're insane!",
+        "name": "2515 MHz",
         "label": "2515 MHz",
         "dec": "2515200"
     },
@@ -220,7 +220,7 @@
         "dec": "2688000"
     },
     {
-        "name": "2707 MHz - emuNAND's death",
+        "name": "2707 MHz - emuNAND's rip",
         "label": "2707 MHz",
         "dec": "2707200"
     }

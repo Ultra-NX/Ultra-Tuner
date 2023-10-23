@@ -1,62 +1,50 @@
 [
     {
-        "name": "1100 mV - Danger",
-        "label": "1100 mV",
+        "name": "1100 mV",
         "dec": "1100000"
     },
     {
-        "name": "1125 mV - Danger",
-        "label": "1125 mV",
+        "name": "1125 mV",
         "dec": "1125000"
     },
     {
-        "name": "1150 mV - Unsafe",
-        "label": "1150 mV",
+        "name": "1150 mV",
         "dec": "1150000"
     },
     {
-        "name": "1175 mV - Unsafe",
-        "label": "1175 mV",
+        "name": "1175 mV",
         "dec": "1175000"
     },
     {
         "name": "1200 mV",
-        "label": "1200 mV",
         "dec": "1200000"
     },
     {
         "name": "1225 mV",
-        "label": "1225 mV",
         "dec": "1225000"
     },
     {
         "name": "1250 mV",
-        "label": "1250 mV",
         "dec": "1250000"
     },
     {
         "name": "1275 mV",
-        "label": "1275 mV",
         "dec": "1275000"
     },
     {
-        "name": "1300 mV - Core",
-        "label": "1300 mV",
+        "name": "1300 mV",
         "dec": "1300000"
     },
     {
         "name": "1325 mV",
-        "label": "1325 mV",
         "dec": "1325000"
     },
     {
-        "name": "1350 mV - Unsafe",
-        "label": "1350 mV",
+        "name": "1350 mV",
         "dec": "1350000"
     },
     {
-        "name": "1375 mV - Danger",
-        "label": "1375 mV",
+        "name": "1375 mV",
         "dec": "1375000"
     }
 ]

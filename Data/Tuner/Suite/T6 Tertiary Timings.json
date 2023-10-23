@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Don't Adjust",
+        "hex": "0",
+        "color": "#666666"
+    },
+    {
+        "name": "488 - 1",
+        "hex": "1",
+        "color": "#999999"
+    },
+    {
+        "name": "976 - 2",
+        "hex": "2",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1952 - 3",
+        "hex": "3",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "3256 - 4",
+        "hex": "4",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "MAX - 5",
+        "hex": "5",
+        "color": "#FFFFFF"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Don't Adjust",
+        "hex": "0",
+        "color": "#666666"
+    },
+    {
+        "name": "1: 140",
+        "hex": "1",
+        "color": "#999999"
+    },
+    {
+        "name": "2: 120",
+        "hex": "2",
+        "color": "#999999"
+    },
+    {
+        "name": "3: 100",
+        "hex": "3",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "4: 80",
+        "hex": "4",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "5: 70",
+        "hex": "5",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "6: 60",
+        "hex": "6",
+        "color": "#FFFFFF"
+    }
+]

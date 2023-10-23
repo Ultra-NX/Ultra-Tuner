@@ -30,8 +30,13 @@
         "path": "/atmosphere/contents/"
     },
     {
-        "name": "The Legend of Zelda: TotK - 1.1.2",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Zelda%20TotK.zip",
+        "name": "Zelda TotK - 1.2.1",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Zelda%20TotK%201.2.1.zip",
+        "path": "/"
+    },
+    {
+        "name": "Zelda TotK - 1.1.2",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/4MODS/Zelda%20TotK%201.1.2.zip",
         "path": "/atmosphere/"
     }
 ]
