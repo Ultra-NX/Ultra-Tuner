@@ -1,36 +1,36 @@
 [
     {
-        "name": "Don't Adjust",
+        "name": "Do Not Adjust",
         "hex": "0",
         "color": "#666666"
     },
     {
-        "name": "1: 10",
+        "name": "10 - [1]",
         "hex": "1",
         "color": "#999999"
     },
     {
-        "name": "2: 8",
+        "name": "8 - [2]",
         "hex": "2",
         "color": "#999999"
     },
     {
-        "name": "3: 6",
+        "name": "6 - [3]",
         "hex": "3",
         "color": "#CCCCCC"
     },
     {
-        "name": "4: 4",
+        "name": "4 - [4]",
         "hex": "4",
         "color": "#CCCCCC"
     },
     {
-        "name": "5: 2",
+        "name": "2 - [5]",
         "hex": "5",
         "color": "#FFFFFF"
     },
     {
-        "name": "6: 1",
+        "name": "1 - [6]",
         "hex": "6",
         "color": "#FFFFFF"
     }
