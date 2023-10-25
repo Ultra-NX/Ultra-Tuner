@@ -20,6 +20,11 @@
         "path": "/switch/"
     },
     {
+        "name": "Linkalho - 2.0.1",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/linkalho.zip",
+        "path": "/switch/"
+    },
+    {
         "name": "ReverseNX Tool - 3.1.2",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/ReverseNX-Tool.zip",
         "path": "/switch/"
@@ -45,13 +50,8 @@
         "path": "/"
     },
     {
-        "name": "Sys-ftpd - 1.0.4",
+        "name": "sys-ftpd - 1.0.4",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/sys-ftpd.zip",
-        "path": "/"
-    },
-    {
-        "name": "Fizeau - 2.4.1",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/Fizeau%20Full.zip",
         "path": "/"
     },
     {
@@ -72,11 +72,6 @@
     {
         "name": "RaytracingNX - 1.1.0",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/RaytracingNX.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "clkrst_query - 1.0.0",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/clkrst_query.zip",
         "path": "/switch/"
     },
     {
