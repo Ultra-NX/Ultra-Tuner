@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Full Overlay - HOS 16.1",
+        "ovl": "Ultra Full.ovl",
+        "zip": "init oc.zip"
+    },
+    {
+        "name": "Lite Overlay - HOS 17",
+        "ovl": "Ultra 17.ovl",
+        "zip": "init 17.zip"
+    }
+]
