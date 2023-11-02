@@ -80,6 +80,11 @@
         "path": "/switch/"
     },
     {
+        "name": "stress-nx - 1.1.0",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/stress-nx.zip",
+        "path": "/switch/"
+    },
+    {
         "name": "mhz - 1.0.0",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/mhz-1.0.0.zip",
         "path": "/switch/"
