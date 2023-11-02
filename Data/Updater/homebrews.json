@@ -55,6 +55,11 @@
         "path": "/"
     },
     {
+        "name": "Observer-Tool - 0.0.2",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/Observer-Tool.zip",
+        "path": "/switch/.overlays/"
+    },
+    {
         "name": "MicroMemBench - 0.5.0",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/MicroMemBench%205.0.zip",
         "path": "/switch/"

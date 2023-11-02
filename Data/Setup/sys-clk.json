@@ -1,12 +1,12 @@
 [
     {
         "name": "Full Overlay - HOS 16.1",
-        "ovl": "Ultra Full.ovl",
-        "zip": "init oc.zip"
+        "ovl": "ultra full.ovl",
+        "nsp": "exefs 4ifir.nsp"
     },
     {
         "name": "Lite Overlay - HOS 17",
-        "ovl": "Ultra 17.ovl",
-        "zip": "init 17.zip"
+        "ovl": "ultra suite.ovl",
+        "nsp": "exefs suite.nsp"
     }
 ]
