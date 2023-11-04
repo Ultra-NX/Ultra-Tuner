@@ -1,12 +1,20 @@
 [
     {
-        "name": "Full Overlay - HOS 16.1",
-        "ovl": "ultra full.ovl",
-        "nsp": "exefs 4ifir.nsp"
+        "name": "New Lite Overlay - HOS 17",
+        "label": "New",
+        "ovl": "ultra new.ovl",
+        "nsp": "exefs new.nsp",
+        "comm1": "set-ini-val",
+        "comm2": "set-ini-val",
+        "ini1": "allow_unsafe_freq",
+        "ini2": "uncapped_clocks"
     },
     {
-        "name": "Lite Overlay - HOS 17",
-        "ovl": "ultra suite.ovl",
-        "nsp": "exefs suite.nsp"
+        "name": "Old Full Overlay - HOS 16.1",
+        "label": "Old",
+        "ovl": "ultra old.ovl",
+        "nsp": "exefs old.nsp",
+        "comm1": "set-ini-val",
+        "ini1": "governor_experimental"
     }
 ]

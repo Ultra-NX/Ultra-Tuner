@@ -21,17 +21,5 @@
         "path": "/atmosphere/crash_reports",
         "path2": "/atmosphere/erpt_reports",
         "path3": "/atmosphere/fatal_reports"
-    },
-    {
-        "name": "4ifir Wizard - Trash",
-        "path": "/switch/.packages/4IFIR Wizard"
-    },
-    {
-        "name": "OC Toolkit - Example",
-        "path": "/switch/.packages/OC Toolkit"
-    },
-    {
-        "name": "Ultra Tuner - Why?",
-        "path": "/switch/.packages/Ultra Tuner"
     }
 ]
