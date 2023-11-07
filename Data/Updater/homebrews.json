@@ -1,6 +1,6 @@
 [
     {
-        "name": "DBI RU - 628",
+        "name": "DBI RU - 631",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
         "path": "/switch/"
     },
@@ -12,6 +12,11 @@
     {
         "name": "DBI PTBR - 628",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20EN.zip",
+        "path": "/switch/"
+    },
+    {
+        "name": "DBI ZHCN - 631",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
         "path": "/switch/"
     },
     {
