@@ -1,11 +1,11 @@
 [
     {
-        "name": "HiOPT",
-        "hex": "0"
-    },
-    {
         "name": "Overvolt",
         "hex": "1"
+    },
+    {
+        "name": "HiOPT",
+        "hex": "0"
     },
     {
         "name": "High UV",

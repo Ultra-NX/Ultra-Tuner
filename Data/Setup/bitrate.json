@@ -1,6 +1,6 @@
 [
     {
-        "name": "20 Mbs - Ultra",
+        "name": "20 Mbs",
         "label": "20 Mbs",
         "hex": "u32!0x1312D00"
     },
@@ -20,7 +20,7 @@
         "hex": "u32!0x780000"
     },
     {
-        "name": "5 Mbs - Stock",
+        "name": "5 Mbs",
         "label": "5 Mbs",
         "hex": "u32!0x42D560"
     }

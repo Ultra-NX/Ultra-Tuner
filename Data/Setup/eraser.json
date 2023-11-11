@@ -15,11 +15,5 @@
         "name": "Sys-ftpd - Delete",
         "path": "/atmosphere/contents/420000000000000E",
         "path2": "/config/sys-ftpd/"
-    },
-    {
-        "name": "Reports - Clear",
-        "path": "/atmosphere/crash_reports",
-        "path2": "/atmosphere/erpt_reports",
-        "path3": "/atmosphere/fatal_reports"
     }
 ]

@@ -60,7 +60,7 @@
         "name": "Red - MK-7",
         "label": "Red",
         "cpuMV": "1220",
-        "cpuUV": "04",
+        "cpuUV": "06",
         "gpu": "02",
         "ramMHz": "2476800",
         "ramVDD2": "1200000",

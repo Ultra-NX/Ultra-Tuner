@@ -1,37 +1,30 @@
 [
     {
         "name": "Do Not Adjust",
-        "hex": "0",
-        "color": "#666666"
+        "hex": "0"
     },
     {
         "name": "18-18-42 - [1]",
-        "hex": "1",
-        "color": "#999999"
+        "hex": "1"
     },
     {
         "name": "17-17-39 - [2]",
-        "hex": "2",
-        "color": "#999999"
+        "hex": "2"
     },
     {
         "name": "16-16-36 - [3]",
-        "hex": "3",
-        "color": "#CCCCCC"
+        "hex": "3"
     },
     {
         "name": "15-15-34 - [4]",
-        "hex": "4",
-        "color": "#CCCCCC"
+        "hex": "4"
     },
     {
         "name": "14-14-32 - [5]",
-        "hex": "5",
-        "color": "#FFFFFF"
+        "hex": "5"
     },
     {
         "name": "13-13-30 - [6]",
-        "hex": "6",
-        "color": "#FFFFFF"
+        "hex": "6"
     }
 ]

@@ -1,37 +1,30 @@
 [
     {
         "name": "Do Not Adjust",
-        "hex": "0",
-        "color": "#666666"
+        "hex": "0"
     },
     {
         "name": "10 - [1]",
-        "hex": "1",
-        "color": "#999999"
+        "hex": "1"
     },
     {
         "name": "8 - [2]",
-        "hex": "2",
-        "color": "#999999"
+        "hex": "2"
     },
     {
         "name": "6 - [3]",
-        "hex": "3",
-        "color": "#CCCCCC"
+        "hex": "3"
     },
     {
         "name": "4 - [4]",
-        "hex": "4",
-        "color": "#CCCCCC"
+        "hex": "4"
     },
     {
         "name": "2 - [5]",
-        "hex": "5",
-        "color": "#FFFFFF"
+        "hex": "5"
     },
     {
         "name": "1 - [6]",
-        "hex": "6",
-        "color": "#FFFFFF"
+        "hex": "6"
     }
 ]

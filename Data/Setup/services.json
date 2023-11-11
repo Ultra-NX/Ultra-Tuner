@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Off",
+        "label": "Off",
+        "comm1": "set-ini-key",
+        "comm2": "set-ini-val",
+        "ini1": "bgtc",
+        "ini2": "enable_halfawake",
+        "ini2a": "u32!0x0",
+        "ini3": "minimum_interval_normal",
+        "ini4": "minimum_interval_save",
+        "ini4a": "u32!0x7FFFFFFF",
+        "ini5": "battery_threshold_save",
+        "ini6": "battery_threshold_stop",
+        "ini6a": "u32!0x64",
+
+        "ini7": "account",
+        "ini8": "na_required_for_network_service",
+        "ini8a": "u8!0x0",
+        "ini9": "na_license_verification_enabled",
+
+        "ini10": "friends",
+        "ini11": "background_processing"
+    },
+    {
+        "name": "On",
+        "label": "On",
+        "comm1": "set-ini-key",
+        "comm2": "set-ini-val",
+        "comm3": "remove-ini-section",
+        "ini1b": "bgtc",
+        "ini2b": "account",
+        "ini3b": "friends",
+        "ini4b": "na_required_for_network_service",
+        "ini5b": "u8!0x0"
+    }
+]
