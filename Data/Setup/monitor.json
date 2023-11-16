@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ultra",
+        "name": "Small",
         "ini": "12",
         "ini2": "left",
         "ini3": "CPU+GPU+RAM+TEMP+FAN+FPS+BATEND",
@@ -8,7 +8,7 @@
         "ini5": "#FFFF"
     },
     {
-        "name": "4ifir",
+        "name": "Normal",
         "ini": "16",
         "ini2": "left",
         "ini3": "CPU+GPU+RAM+BRD+FAN+FPSEND",
@@ -16,7 +16,7 @@
         "ini5": "#FFFF"
     },
     {
-        "name": "BIG",
+        "name": "Big",
         "ini": "24",
         "ini2": "center",
         "ini3": "CPUS+GPU+RAM+TEMPS+FAN+FPS",

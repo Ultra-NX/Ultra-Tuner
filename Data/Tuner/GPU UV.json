@@ -1,14 +1,14 @@
 [
     {
-        "name": "Overvolt",
-        "hex": "1"
-    },
-    {
-        "name": "HiOPT",
+        "name": "Low UV",
         "hex": "0"
     },
     {
-        "name": "High UV",
+        "name": "Mid UV",
+        "hex": "1"
+    },
+    {
+        "name": "Max UV",
         "hex": "2"
     }
 ]
