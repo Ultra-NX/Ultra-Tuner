@@ -1,14 +1,14 @@
 [
     {
-        "name": "AUTO_ADJ_ALL",
+        "name": "Auto Adjust",
         "hex": "0"
     },
     {
-        "name": "CUSTOM_ADJ_ALL",
+        "name": "Custom Adjust",
         "hex": "1"
     },
     {
-        "name": "NO_ADJ_ALL",
+        "name": "Do Not Adjust",
         "hex": "2"
     }
 ]
