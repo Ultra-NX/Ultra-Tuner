@@ -1,62 +1,62 @@
 [
     {
         "name": "Default",
-        "hex": "00B3"
+        "dec": "00"
     },
     {
         "name": "-5 mV",
-        "hex": "05B3"
+        "dec": "05"
     },
     {
         "name": "-10 mV",
-        "hex": "0AB3"
+        "dec": "10"
     },
     {
         "name": "-15 mV",
-        "hex": "0FB3"
+        "dec": "15"
     },
     {
         "name": "-20 mV",
-        "hex": "14B3"
+        "dec": "20"
     },
     {
         "name": "-25 mV",
-        "hex": "19B3"
+        "dec": "25"
     },
     {
         "name": "-30 mV",
-        "hex": "1EB3"
+        "dec": "30"
     },
     {
         "name": "-35 mV",
-        "hex": "23B3"
+        "dec": "35"
     },
     {
         "name": "-40 mV",
-        "hex": "28B3"
+        "dec": "40"
     },
     {
         "name": "-45 mV",
-        "hex": "2DB3"
+        "dec": "45"
     },
     {
         "name": "-50 mV",
-        "hex": "32B3"
+        "dec": "50"
     },
     {
         "name": "-55 mV",
-        "hex": "37B3"
+        "dec": "55"
     },
     {
         "name": "-60 mV",
-        "hex": "3CB3"
+        "dec": "60"
     },
     {
         "name": "-65 mV",
-        "hex": "41B3"
+        "dec": "65"
     },
     {
         "name": "-70 mV",
-        "hex": "46B3"
+        "dec": "70"
     }
 ]
