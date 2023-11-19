@@ -25,12 +25,12 @@
     {
         "name": "On",
         "label": "On",
-        "comm1": "set-ini-key",
-        "comm2": "set-ini-val",
-        "comm3": "remove-ini-section",
-        "ini1b": "bgtc",
-        "ini2b": "account",
-        "ini3b": "friends",
+        "comm1": "remove-ini-section",
+        "comm2b": "set-ini-key",
+        "comm3b": "set-ini-val",
+        "ini1": "bgtc",
+        "ini7": "account",
+        "ini10": "friends",
         "ini4b": "na_required_for_network_service",
         "ini5b": "u8!0x0"
     }
