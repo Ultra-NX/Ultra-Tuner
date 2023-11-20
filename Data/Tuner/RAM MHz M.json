@@ -1,8 +1,8 @@
 [
     {
-        "name": "2131 MHz - Gray",
-        "label": "2131 MHz",
-        "dec": "2131200"
+        "name": "2133 MHz - Gray",
+        "label": "2133 MHz",
+        "dec": "2133000"
     },
     {
         "name": "2150 MHz",
@@ -10,9 +10,9 @@
         "dec": "2150400"
     },
     {
-        "name": "2169 MHz",
-        "label": "2169 MHz",
-        "dec": "2169600"
+        "name": "2166 MHz",
+        "label": "2166 MHz",
+        "dec": "2166000"
     },
     {
         "name": "2188 MHz",
@@ -20,9 +20,9 @@
         "dec": "2188800"
     },
     {
-        "name": "2208 MHz",
-        "label": "2208 MHz",
-        "dec": "2208000"
+        "name": "2200 MHz",
+        "label": "2200 MHz",
+        "dec": "2200000"
     },
     {
         "name": "2227 MHz",
@@ -30,14 +30,19 @@
         "dec": "2227200"
     },
     {
+        "name": "2233 MHz",
+        "label": "2233 MHz",
+        "dec": "2233000"
+    },
+    {
         "name": "2246 MHz",
         "label": "2246 MHz",
         "dec": "2246400"
     },
     {
-        "name": "2265 MHz - Core",
-        "label": "2265 MHz",
-        "dec": "2265600"
+        "name": "2266 MHz - Core",
+        "label": "2266 MHz",
+        "dec": "2266000"
     },
     {
         "name": "2284 MHz",
@@ -45,9 +50,9 @@
         "dec": "2284800"
     },
     {
-        "name": "2304 MHz",
-        "label": "2304 MHz",
-        "dec": "2304000"
+        "name": "2300 MHz",
+        "label": "2300 MHz",
+        "dec": "2300000"
     },
     {
         "name": "2323 MHz",
@@ -55,14 +60,19 @@
         "dec": "2323200"
     },
     {
+        "name": "2333 MHz",
+        "label": "2333 MHz",
+        "dec": "2333000"
+    },
+    {
         "name": "2342 MHz",
         "label": "2342 MHz",
         "dec": "2342400"
     },
     {
-        "name": "2361 MHz",
-        "label": "2361 MHz",
-        "dec": "2361600"
+        "name": "2366 MHz",
+        "label": "2366 MHz",
+        "dec": "2366000"
     },
     {
         "name": "2380 MHz",
@@ -80,14 +90,19 @@
         "dec": "2419200"
     },
     {
-        "name": "2438 MHz",
-        "label": "2438 MHz",
-        "dec": "2438400"
+        "name": "2433 MHz",
+        "label": "2433 MHz",
+        "dec": "2433000"
     },
     {
         "name": "2457 MHz",
         "label": "2457 MHz",
         "dec": "2457600"
+    },
+    {
+        "name": "2466 MHz",
+        "label": "2466 MHz",
+        "dec": "2466000"
     },
     {
         "name": "2476 MHz - Ultra",
@@ -100,19 +115,29 @@
         "dec": "2496000"
     },
     {
+        "name": "2500 MHz",
+        "label": "2500 MHz",
+        "dec": "2500000"
+    },
+    {
         "name": "2515 MHz",
         "label": "2515 MHz",
         "dec": "2515200"
     },
     {
-        "name": "2534 MHz",
-        "label": "2534 MHz",
-        "dec": "2534400"
+        "name": "2533 MHz",
+        "label": "2533 MHz",
+        "dec": "2533000"
     },
     {
         "name": "2553 MHz",
         "label": "2553 MHz",
         "dec": "2553600"
+    },
+    {
+        "name": "2566 MHz",
+        "label": "2566 MHz",
+        "dec": "2566000"
     },
     {
         "name": "2572 MHz",
@@ -125,14 +150,19 @@
         "dec": "2592000"
     },
     {
+        "name": "2600 MHz",
+        "label": "2600 MHz",
+        "dec": "2600000"
+    },
+    {
         "name": "2611 MHz",
         "label": "2611 MHz",
         "dec": "2611200"
     },
     {
-        "name": "2630 MHz - MK-X",
-        "label": "2630 MHz",
-        "dec": "2630400"
+        "name": "2633 MHz - MK-X",
+        "label": "2633 MHz",
+        "dec": "2633000"
     },
     {
         "name": "2649 MHz",
@@ -140,14 +170,19 @@
         "dec": "2649600"
     },
     {
-        "name": "2668 MHz",
-        "label": "2668 MHz",
-        "dec": "2668800"
+        "name": "2666 MHz",
+        "label": "2666 MHz",
+        "dec": "2666000"
     },
     {
         "name": "2688 MHz",
         "label": "2688 MHz",
         "dec": "2688000"
+    },
+    {
+        "name": "2700 MHz - Serious?",
+        "label": "2700 MHz",
+        "dec": "2700000"
     },
     {
         "name": "2707 MHz - Serious?",
@@ -160,14 +195,19 @@
         "dec": "2726400"
     },
     {
+        "name": "2733 MHz",
+        "label": "2733 MHz",
+        "dec": "2733000"
+    },
+    {
         "name": "2745 MHz",
         "label": "2745 MHz",
         "dec": "2745600"
     },
     {
-        "name": "2764 MHz",
-        "label": "2764 MHz",
-        "dec": "2764800"
+        "name": "2766 MHz",
+        "label": "2766 MHz",
+        "dec": "2766000"
     },
     {
         "name": "2784 MHz",
@@ -175,14 +215,19 @@
         "dec": "2784000"
     },
     {
-        "name": "2803 MHz",
-        "label": "2803 MHz",
-        "dec": "2803200"
+        "name": "2800 MHz - You're insane!",
+        "label": "2800 MHz",
+        "dec": "2800000"
     },
     {
-        "name": "2822 MHz - You're insane!",
+        "name": "2822 MHz",
         "label": "2822 MHz",
         "dec": "2822400"
+    },
+    {
+        "name": "2833 MHz",
+        "label": "2833 MHz",
+        "dec": "2833000"
     },
     {
         "name": "2841 MHz",
@@ -190,9 +235,9 @@
         "dec": "2841600"
     },
     {
-        "name": "2860 MHz",
-        "label": "2860 MHz",
-        "dec": "2860800"
+        "name": "2866 MHz",
+        "label": "2866 MHz",
+        "dec": "2866000"
     },
     {
         "name": "2880 MHz",
@@ -200,9 +245,9 @@
         "dec": "2880000"
     },
     {
-        "name": "2899 MHz - Oh shit...",
-        "label": "2899 MHz",
-        "dec": "2899200"
+        "name": "2900 MHz - Oh shit...",
+        "label": "2900 MHz",
+        "dec": "2900000"
     },
     {
         "name": "2918 MHz",
@@ -210,9 +255,9 @@
         "dec": "2918400"
     },
     {
-        "name": "2937 MHz",
-        "label": "2937 MHz",
-        "dec": "2937600"
+        "name": "2933 MHz",
+        "label": "2933 MHz",
+        "dec": "2933000"
     },
     {
         "name": "2956 MHz",
@@ -220,13 +265,23 @@
         "dec": "2956800"
     },
     {
+        "name": "2966 MHz",
+        "label": "2966 MHz",
+        "dec": "2966000"
+    },
+    {
         "name": "2976 MHz",
         "label": "2976 MHz",
         "dec": "2976000"
     },
     {
-        "name": "2995 MHz - emuNAND's rip",
+        "name": "2995 MHz",
         "label": "2995 MHz",
         "dec": "2995200"
+    },
+    {
+        "name": "3000 MHz - emuNAND's rip",
+        "label": "3000 MHz",
+        "dec": "3000000"
     }
 ]
