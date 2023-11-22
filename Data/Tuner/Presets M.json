@@ -69,7 +69,7 @@
         "name": "Red - MK-7",
         "label": "Red",
         "cpuMV": "1220",
-        "cpuUV": "3",
+        "cpuUV": "4",
         "cpuBoost": "2703000",
         "gpuUV": "2",
         "gpuVmin": "630",
