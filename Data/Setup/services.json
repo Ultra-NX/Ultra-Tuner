@@ -2,36 +2,34 @@
     {
         "name": "Off",
         "label": "Off",
-        "comm1": "set-ini-key",
-        "comm2": "set-ini-val",
+        "comm1": "set-ini-val",
         "ini1": "bgtc",
-        "ini2": "enable_halfawake",
-        "ini2a": "u32!0x0",
-        "ini3": "minimum_interval_normal",
-        "ini4": "minimum_interval_save",
-        "ini4a": "u32!0x7FFFFFFF",
-        "ini5": "battery_threshold_save",
-        "ini6": "battery_threshold_stop",
-        "ini6a": "u32!0x64",
+        "ini1a": "enable_halfawake",
+        "val1": "u32!0x0",
+        "ini1b": "minimum_interval_normal",
+        "ini1c": "minimum_interval_save",
+        "val2": "u32!0x7FFFFFFF",
+        "ini1d": "battery_threshold_save",
+        "ini1e": "battery_threshold_stop",
+        "val3": "u32!0x64",
 
-        "ini7": "account",
-        "ini8": "na_required_for_network_service",
-        "ini8a": "u8!0x0",
-        "ini9": "na_license_verification_enabled",
+        "ini2": "account",
+        "ini2a": "na_required_for_network_service",
+        "val4": "u8!0x0",
+        "ini2b": "na_license_verification_enabled",
 
-        "ini10": "friends",
-        "ini11": "background_processing"
+        "ini3": "friends",
+        "ini3a": "background_processing"
     },
     {
         "name": "On",
         "label": "On",
-        "comm1": "remove-ini-section",
-        "comm2b": "set-ini-key",
-        "comm3b": "set-ini-val",
-        "ini1": "bgtc",
-        "ini7": "account",
-        "ini10": "friends",
-        "ini4b": "na_required_for_network_service",
-        "ini5b": "u8!0x0"
+        "comm2": "remove-ini-section",
+        "comm3": "set-ini-val",
+        "ini4": "bgtc",
+        "ini5": "friends",
+        "ini6": "account",
+        "ini6a": "na_required_for_network_service",
+        "val5": "u8!0x0"
     }
 ]
