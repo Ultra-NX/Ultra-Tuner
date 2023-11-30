@@ -1,30 +1,37 @@
 [
     {
         "name": "Default",
+        "label": "Default",
         "hex": "0"
     },
     {
-        "name": "OG - [1]",
+        "name": "[1] - OG",
+        "label": "[1]",
         "hex": "1"
     },
     {
-        "name": "OG - [2]",
+        "name": "[2] - OG",
+        "label": "[2]",
         "hex": "2"
     },
     {
-        "name": "OG - [3]",
+        "name": "[3] - OG",
+        "label": "[3]",
         "hex": "3"
     },
     {
-        "name": "OG - [4]",
+        "name": "[4] - OG",
+        "label": "[4]",
         "hex": "4"
     },
     {
-        "name": "B3 - [5]",
+        "name": "[5] - B3",
+        "label": "[5]",
         "hex": "5"
     },
     {
-        "name": "B3 - [6]",
+        "name": "[6] - B3",
+        "label": "[6]",
         "hex": "6"
     }
 ]
