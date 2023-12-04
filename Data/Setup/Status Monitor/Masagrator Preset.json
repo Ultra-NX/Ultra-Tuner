@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Ultra+ - +Volts",
+        "label": "Ultra+",
+        "font": "12",
+        "align": "left",
+        "freqs": "true",
+        "volts": "true",
+        "show": "CPUB+GPU+RAM+BRDB+FPS+BATE",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Ultra- - -Volts",
+        "label": "Ultra-",
+        "font": "12",
+        "align": "left",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPUB+GPU+RAM+BRDB+FPS+BATE",
+        "RAM": "true",
+        "cat": "#CCCC",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Normal+ - +Volts",
+        "label": "Normal+",
+        "font": "15",
+        "align": "left",
+        "freqs": "true",
+        "volts": "true",
+        "show": "CPUB+GPU+RAM+BRDB+FPSE",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Normal- - -Volts",
+        "label": "Normal-",
+        "font": "17",
+        "align": "left",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPUB+GPU+RAM+BRDB+BATB+FPSE",
+        "RAM": "true",
+        "cat": "#CCCC",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Big+ - +Volts",
+        "label": "Big-",
+        "font": "18",
+        "align": "left",
+        "freqs": "true",
+        "volts": "true",
+        "show": "CPU+GPU+RAM+BRD+FPSE",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Big- - -Volts",
+        "label": "Big-",
+        "font": "21",
+        "align": "left",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPU+GPU+RAM+BRD+BATB+FPSE",
+        "RAM": "true",
+        "cat": "#CCCC",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Giant - Really BIG!",
+        "label": "Giant-",
+        "font": "28",
+        "align": "center",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPU+GPU+RAM+BRD+FPS",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Meha - Original",
+        "label": "Meha",
+        "font": "14",
+        "align": "left",
+        "freqs": "false",
+        "volts": "true",
+        "show": "FPS+CPU+GPU+RAM+BRD+PWR+BAT",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Masagrator - Original",
+        "label": "Masagrator",
+        "font": "18",
+        "align": "center",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPUB+GPU+RAM+BRDM+FAN+FPS",
+        "RAM": "true",
+        "cat": "#FCCF",
+        "text": "#FFFF"
+    }
+]
+

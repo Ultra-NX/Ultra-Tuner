@@ -1,26 +1,32 @@
 [
     {
-        "name": "Default",
+        "name": "Default - tRRD-tFAW",
+        "label": "Default",
         "hex": "0"
     },
     {
         "name": "[1] - 10-40",
+        "label": "[1]",
         "hex": "1"
     },
     {
         "name": "[2] - 7.5-30",
+        "label": "[2]",
         "hex": "2"
     },
     {
         "name": "[3] - 6-24",
+        "label": "[3]",
         "hex": "3"
     },
     {
         "name": "[4] - 4-16",
+        "label": "[4]",
         "hex": "4"
     },
     {
         "name": "[5] - 3-12",
+        "label": "[5]",
         "hex": "5"
     }
 ]

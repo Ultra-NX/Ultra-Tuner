@@ -1,22 +1,27 @@
 [
     {
         "name": "Default",
+        "label": "Default",
         "hex": "0"
     },
     {
         "name": "[1] - +25mV",
+        "label": "[1]",
         "hex": "1"
     },
     {
         "name": "[2] - +50mV",
+        "label": "[2]",
         "hex": "2"
     },
     {
         "name": "[3] - +75mV",
+        "label": "[3]",
         "hex": "3"
     },
     {
         "name": "[4] - +100mV",
+        "label": "[4]",
         "hex": "4"
     }
 ]

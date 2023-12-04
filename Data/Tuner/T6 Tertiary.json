@@ -1,26 +1,37 @@
 [
     {
-        "name": "Default",
+        "name": "Default - tREFI",
+        "label": "Default",
         "hex": "0"
     },
     {
-        "name": "[1] - 488",
+        "name": "[1] - 1x REFI",
+        "label": "[1]",
         "hex": "1"
     },
     {
-        "name": "[2] - 976",
+        "name": "[2] - 1.5x REFI",
+        "label": "[2]",
         "hex": "2"
     },
     {
-        "name": "[3] - 1952",
+        "name": "[3] - 2x REFI",
+        "label": "[3]",
         "hex": "3"
     },
     {
-        "name": "[4] - 3256",
+        "name": "[4] - 3x REFI",
+        "label": "[4]",
         "hex": "4"
     },
     {
-        "name": "[5] - MAX",
+        "name": "[5] - 4x REFI",
+        "label": "[5]",
         "hex": "5"
+    },
+    {
+        "name": "[6] - MAX REFI",
+        "label": "[6]",
+        "hex": "6"
     }
 ]

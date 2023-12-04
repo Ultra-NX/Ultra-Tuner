@@ -1,5 +1,40 @@
 [
     {
+        "name": "2000 MHz",
+        "label": "2000 MHz",
+        "dec": "2000000"
+    },
+    {
+        "name": "2016 MHz",
+        "label": "2016 MHz",
+        "dec": "2016000"
+    },
+    {
+        "name": "2033 MHz",
+        "label": "2033 MHz",
+        "dec": "2033000"
+    },
+    {
+        "name": "2054 MHz",
+        "label": "2054 MHz",
+        "dec": "2054400"
+    },
+    {
+        "name": "2066 MHz",
+        "label": "2066 MHz",
+        "dec": "2066000"
+    },
+    {
+        "name": "2100 MHz",
+        "label": "2100 MHz",
+        "dec": "2100000"
+    },
+    {
+        "name": "2112 MHz",
+        "label": "2112 MHz",
+        "dec": "2112000"
+    },
+    {
         "name": "2133 MHz - Gray",
         "label": "2133 MHz",
         "dec": "2133000"
@@ -150,7 +185,7 @@
         "dec": "2592000"
     },
     {
-        "name": "2600 MHz",
+        "name": "2600 MHz - MK-X",
         "label": "2600 MHz",
         "dec": "2600000"
     },
@@ -160,7 +195,7 @@
         "dec": "2611200"
     },
     {
-        "name": "2633 MHz - MK-X",
+        "name": "2633 MHz",
         "label": "2633 MHz",
         "dec": "2633000"
     },
