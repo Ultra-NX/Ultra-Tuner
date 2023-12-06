@@ -125,7 +125,7 @@
         "dec": "2323200"
     },
     {
-        "name": "2342 MHz",
+        "name": "2342 MHz - Serious?",
         "label": "2342 MHz",
         "dec": "2342400"
     },
@@ -140,7 +140,7 @@
         "dec": "2380800"
     },
     {
-        "name": "2400 MHz - Serious?",
+        "name": "2400 MHz - You're insane!",
         "label": "2400 MHz",
         "dec": "2400000"
     },
@@ -160,7 +160,7 @@
         "dec": "2457600"
     },
     {
-        "name": "2476 MHz - You're insane!",
+        "name": "2476 MHz - Oh shit...",
         "label": "2476 MHz",
         "dec": "2476800"
     },
@@ -180,48 +180,8 @@
         "dec": "2534400"
     },
     {
-        "name": "2553 MHz",
+        "name": "2553 MHz - emuNAND's rip",
         "label": "2553 MHz",
         "dec": "2553600"
-    },
-    {
-        "name": "2572 MHz",
-        "label": "2572 MHz",
-        "dec": "2572800"
-    },
-    {
-        "name": "2592 MHz",
-        "label": "2592 MHz",
-        "dec": "2592000"
-    },
-    {
-        "name": "2611 MHz",
-        "label": "2611 MHz",
-        "dec": "2611200"
-    },
-    {
-        "name": "2630 MHz - Oh shit...",
-        "label": "2630 MHz",
-        "dec": "2630400"
-    },
-    {
-        "name": "2649 MHz",
-        "label": "2649 MHz",
-        "dec": "2649600"
-    },
-    {
-        "name": "2668 MHz",
-        "label": "2668 MHz",
-        "dec": "2668800"
-    },
-    {
-        "name": "2688 MHz",
-        "label": "2688 MHz",
-        "dec": "2688000"
-    },
-    {
-        "name": "2707 MHz - emuNAND's rip",
-        "label": "2707 MHz",
-        "dec": "2707200"
     }
 ]

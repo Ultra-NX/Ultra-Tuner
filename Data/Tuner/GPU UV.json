@@ -1,14 +1,14 @@
 [
     {
-        "name": "Low UV",
+        "name": "Default",
         "hex": "0"
     },
     {
-        "name": "Mid UV",
+        "name": "Meduim",
         "hex": "1"
     },
     {
-        "name": "Max UV",
+        "name": "Maximum",
         "hex": "2"
     }
 ]

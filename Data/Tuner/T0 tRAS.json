@@ -1,7 +1,7 @@
 [
     {
-        "name": "Default - tRAS=tRP+tRTP",
-        "label": "Default",
+        "name": "Not Adjust - tRAS=tRP+tRTP",
+        "label": "Not Adjust",
         "hex": "22000000200000001E"
     },
 	    {
