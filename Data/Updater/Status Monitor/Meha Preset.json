@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Meha - Original",
+        "label": "Meha",
+        "font": "14",
+        "align": "left",
+        "freqs": "false",
+        "volts": "true",
+        "show": "FPS+CPU+GPU+RAM+BRD+PWR+BAT",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Compact - Ultra",
+        "label": "Compact",
+        "font": "12",
+        "align": "left",
+        "freqs": "true",
+        "volts": "true",
+        "show": "CPU+GPU+RAM+BRD+PWR+FPS+BAT",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Big - Ultra",
+        "label": "Big",
+        "font": "18",
+        "align": "left",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPU+GPU+RAM+BRD+PWR+FPS+BAT",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    }
+]
+

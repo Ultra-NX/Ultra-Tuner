@@ -1,5 +1,11 @@
 [
     {
+        "name": "Not Adjust",
+        "comm": "hex-by-custom-offset",
+        "dec": "0",
+        "hex": "000000"
+    },
+    {
         "name": "550 mV",
         "dec": "550"
     },
@@ -20,7 +26,7 @@
         "dec": "590"
     },
     {
-        "name": "600 mV - Default",
+        "name": "600 mV",
         "dec": "600"
     },
     {

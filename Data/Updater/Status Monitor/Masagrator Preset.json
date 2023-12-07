@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Masagrator - Original",
+        "label": "Masagrator",
+        "font": "18",
+        "align": "center",
+        "freqs": "false",
+        "volts": "false",
+        "show": "CPU+GPU+RAM+BRD+FAN+FPS",
+        "RAM": "true",
+        "cat": "#FCCF",
+        "text": "#FFFF"
+    },
+    {
+        "name": "Compact - Ultra",
+        "label": "Compact",
+        "font": "15",
+        "align": "left",
+        "freqs": "true",
+        "volts": "false",
+        "show": "CPU+GPU+RAM+BRD+FAN+FPS",
+        "RAM": "true",
+        "cat": "#BDFF",
+        "text": "#FFFF"
+    }
+]
+

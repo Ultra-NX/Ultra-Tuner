@@ -10,11 +10,6 @@
         "dec": "2033000"
     },
     {
-        "name": "2054 MHz",
-        "label": "2054 MHz",
-        "dec": "2054400"
-    },
-    {
         "name": "2066 MHz",
         "label": "2066 MHz",
         "dec": "2066000"
@@ -30,19 +25,9 @@
         "dec": "2133000"
     },
     {
-        "name": "2150 MHz",
-        "label": "2150 MHz",
-        "dec": "2150400"
-    },
-    {
         "name": "2166 MHz",
         "label": "2166 MHz",
         "dec": "2166000"
-    },
-    {
-        "name": "2188 MHz",
-        "label": "2188 MHz",
-        "dec": "2188800"
     },
     {
         "name": "2200 MHz",
@@ -50,29 +35,14 @@
         "dec": "2200000"
     },
     {
-        "name": "2227 MHz",
-        "label": "2227 MHz",
-        "dec": "2227200"
-    },
-    {
         "name": "2233 MHz",
         "label": "2233 MHz",
         "dec": "2233000"
     },
     {
-        "name": "2246 MHz",
-        "label": "2246 MHz",
-        "dec": "2246400"
-    },
-    {
         "name": "2266 MHz - Core",
         "label": "2266 MHz",
         "dec": "2266000"
-    },
-    {
-        "name": "2284 MHz",
-        "label": "2284 MHz",
-        "dec": "2284800"
     },
     {
         "name": "2300 MHz",
@@ -85,29 +55,14 @@
         "dec": "2333000"
     },
     {
-        "name": "2342 MHz",
-        "label": "2342 MHz",
-        "dec": "2342400"
-    },
-    {
         "name": "2366 MHz",
         "label": "2366 MHz",
         "dec": "2366000"
     },
     {
-        "name": "2380 MHz",
-        "label": "2380 MHz",
-        "dec": "2380800"
-    },
-    {
         "name": "2400 MHz - Mega",
         "label": "2400 MHz",
         "dec": "2400000"
-    },
-    {
-        "name": "2419 MHz",
-        "label": "2419 MHz",
-        "dec": "2419200"
     },
     {
         "name": "2433 MHz",
@@ -120,19 +75,9 @@
         "dec": "2466000"
     },
     {
-        "name": "2476 MHz - Ultra",
-        "label": "2476 MHz",
-        "dec": "2476800"
-    },
-    {
-        "name": "2500 MHz",
+        "name": "2500 MHz - Ultra",
         "label": "2500 MHz",
         "dec": "2500000"
-    },
-    {
-        "name": "2515 MHz",
-        "label": "2515 MHz",
-        "dec": "2515200"
     },
     {
         "name": "2533 MHz",
@@ -145,11 +90,6 @@
         "dec": "2566000"
     },
     {
-        "name": "2572 MHz",
-        "label": "2572 MHz",
-        "dec": "2572800"
-    },
-    {
         "name": "2600 MHz - MK-X",
         "label": "2600 MHz",
         "dec": "2600000"
@@ -160,19 +100,9 @@
         "dec": "2633000"
     },
     {
-        "name": "2649 MHz",
-        "label": "2649 MHz",
-        "dec": "2649600"
-    },
-    {
         "name": "2666 MHz",
         "label": "2666 MHz",
         "dec": "2666000"
-    },
-    {
-        "name": "2688 MHz",
-        "label": "2688 MHz",
-        "dec": "2688000"
     },
     {
         "name": "2700 MHz - Serious?",
@@ -218,11 +148,6 @@
         "name": "2966 MHz",
         "label": "2966 MHz",
         "dec": "2966000"
-    },
-    {
-        "name": "2976 MHz",
-        "label": "2976 MHz",
-        "dec": "2976000"
     },
     {
         "name": "3000 MHz - emuNAND's rip",

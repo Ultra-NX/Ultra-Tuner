@@ -1,14 +1,22 @@
 [
     {
         "name": "Default",
+        "label": "Default",
         "hex": "0"
     },
     {
-        "name": "Meduim",
+        "name": "SLT - [1]",
+        "label": "SLT",
         "hex": "1"
     },
     {
-        "name": "Maximum",
+        "name": "HiOPT - [2]",
+        "label": "HiOPT",
         "hex": "2"
+    },
+    {
+        "name": "Custom UV3 - [3]",
+        "label": "Custom UV3",
+        "hex": "3"
     }
 ]

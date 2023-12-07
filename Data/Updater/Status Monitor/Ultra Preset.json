@@ -21,7 +21,7 @@
         "show": "CPUB+GPU+RAM+BRDB+FPS+BATE",
         "RAM": "true",
         "cat": "#CCCC",
-        "text": "#FFFF"
+        "text": "#FFFD"
     },
     {
         "name": "Normal+ - +Volts",
@@ -45,11 +45,11 @@
         "show": "CPUB+GPU+RAM+BRDB+BATB+FPSE",
         "RAM": "true",
         "cat": "#CCCC",
-        "text": "#FFFF"
+        "text": "#FFFD"
     },
     {
         "name": "Big+ - +Volts",
-        "label": "Big-",
+        "label": "Big+",
         "font": "18",
         "align": "left",
         "freqs": "true",
@@ -69,7 +69,7 @@
         "show": "CPU+GPU+RAM+BRD+BATB+FPSE",
         "RAM": "true",
         "cat": "#CCCC",
-        "text": "#FFFF"
+        "text": "#FFFD"
     },
     {
         "name": "Giant - Really BIG!",

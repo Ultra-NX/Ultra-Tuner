@@ -5,23 +5,23 @@
         "hex": "0"
     },
     {
-        "name": "[1] - OG",
-        "label": "[1]",
+        "name": "SLTv1 - [1]",
+        "label": "SLTv1",
         "hex": "1"
     },
     {
-        "name": "[2] - OG",
-        "label": "[2]",
+        "name": "SLTv2 - [2]",
+        "label": "SLTv2",
         "hex": "2"
     },
     {
-        "name": "[3] - OG",
-        "label": "[3]",
+        "name": "OCT - [3]",
+        "label": "OCT",
         "hex": "3"
     },
     {
-        "name": "[4] - OG",
-        "label": "[4]",
+        "name": "HiOCT - [4]",
+        "label": "HiOCT",
         "hex": "4"
     }
 ]
