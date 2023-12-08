@@ -60,6 +60,16 @@
         "path": "/"
     },
     {
+        "name": "sys-con - 0.6.4",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/sys-con.zip",
+        "path": "/"
+    },
+    {
+        "name": "Mission Control - 0.10.0",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/MissionControl.zip",
+        "path": "/"
+    },
+    {
         "name": "Observer-Tool - 0.0.2",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/Observer-Tool.zip",
         "path": "/switch/.overlays/"
@@ -67,21 +77,6 @@
     {
         "name": "MemToolkitNX - 1.0.0-rc1",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/MemToolkitNX.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "RaytracingNX - 1.1.0",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/RaytracingNX.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "stress-nx - 1.1.0",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/stress-nx.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "mhz - 1.0.0",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/mhz-1.0.0.zip",
         "path": "/switch/"
     }
 ]
