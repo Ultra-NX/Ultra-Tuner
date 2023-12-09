@@ -8,6 +8,7 @@
         "volts": "true",
         "show": "CPUB+GPU+RAM+BRDB+FPS+BATE",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
     },
@@ -20,6 +21,7 @@
         "volts": "false",
         "show": "CPUB+GPU+RAM+BRDB+FPS+BATE",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#CCCC",
         "text": "#FFFD"
     },
@@ -32,6 +34,7 @@
         "volts": "true",
         "show": "CPUB+GPU+RAM+BRDB+FPSE",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
     },
@@ -44,6 +47,7 @@
         "volts": "false",
         "show": "CPUB+GPU+RAM+BRDB+BATB+FPSE",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#CCCC",
         "text": "#FFFD"
     },
@@ -56,6 +60,7 @@
         "volts": "true",
         "show": "CPU+GPU+RAM+BRD+FPSE",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
     },
@@ -68,6 +73,7 @@
         "volts": "false",
         "show": "CPU+GPU+RAM+BRD+BATB+FPSE",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#CCCC",
         "text": "#FFFD"
     },
@@ -80,8 +86,22 @@
         "volts": "false",
         "show": "CPU+GPU+RAM+BRD+FPS",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
+    },
+    {
+        "name": "Nano - FPS+Bat",
+        "label": "Nano",
+        "font": "14",
+        "align": "left",
+        "freqs": "false",
+        "volts": "false",
+        "show": "FPS+BATB",
+        "RAM": "false",
+        "back": "#0000",
+        "cat": "#CCCC",
+        "text": "#FFFD"
     },
     {
         "name": "Meha - Original",
@@ -92,6 +112,7 @@
         "volts": "true",
         "show": "FPS+CPU+GPU+RAM+BRD+PWR+BAT",
         "RAM": "true",
+        "back": "#1117",
         "cat": "#BDFF",
         "text": "#FFFF"
     },
@@ -104,6 +125,7 @@
         "volts": "false",
         "show": "CPUB+GPU+RAM+BRDM+FAN+FPS",
         "RAM": "true",
+        "back": "#1117",
         "cat": "#FCCF",
         "text": "#FFFF"
     }

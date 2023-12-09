@@ -8,6 +8,7 @@
         "volts": "true",
         "show": "FPS+CPU+GPU+RAM+BRD+PWR+BAT",
         "RAM": "true",
+        "back": "#1117",
         "cat": "#BDFF",
         "text": "#FFFF"
     },
@@ -20,6 +21,7 @@
         "volts": "true",
         "show": "CPU+GPU+RAM+BRD+PWR+FPS+BAT",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
     },
@@ -32,6 +34,7 @@
         "volts": "false",
         "show": "CPU+GPU+RAM+BRD+PWR+FPS+BAT",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
     }

@@ -8,6 +8,7 @@
         "volts": "false",
         "show": "CPU+GPU+RAM+BRD+FAN+FPS",
         "RAM": "true",
+        "back": "#1117",
         "cat": "#FCCF",
         "text": "#FFFF"
     },
@@ -20,6 +21,7 @@
         "volts": "false",
         "show": "CPU+GPU+RAM+BRD+FAN+FPS",
         "RAM": "true",
+        "back": "#1113",
         "cat": "#BDFF",
         "text": "#FFFF"
     }
