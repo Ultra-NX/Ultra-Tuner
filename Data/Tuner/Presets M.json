@@ -19,10 +19,7 @@
         "t4": "3",
         "t5": "2",
         "t6": "3",
-        "t7": "0",
-        "comm": "hex-by-custom-offset",
-        "VDDQhex": "000000",
-        "VDD2hex": "000000"
+        "t7": "0"
     },
     {
         "name": "Core - MK-1",
