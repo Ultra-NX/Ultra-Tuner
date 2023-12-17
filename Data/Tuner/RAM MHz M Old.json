@@ -35,7 +35,7 @@
         "dec": "2112000"
     },
     {
-        "name": "2131 MHz - Gray",
+        "name": "2131 MHz - Default",
         "label": "2131 MHz",
         "dec": "2131200"
     },
@@ -160,12 +160,12 @@
         "dec": "2592000"
     },
     {
-        "name": "2611 MHz",
+        "name": "2611 MHz - Red",
         "label": "2611 MHz",
         "dec": "2611200"
     },
     {
-        "name": "2630 MHz - MK-X",
+        "name": "2630 MHz",
         "label": "2630 MHz",
         "dec": "2630400"
     },

@@ -70,7 +70,7 @@
         "path": "/switch/.overlays/"
     },
     {
-        "name": "MemToolkitNX - 1.0.0-rc1",
+        "name": "MemToolkitNX - Latest",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/MemToolkitNX.zip",
         "path": "/switch/"
     }
