@@ -1,52 +1,42 @@
 [
     {
-        "name": "Ancestors Legacy",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Ancestors%20Legacy.zip",
-        "path": "/atmosphere/contents/"
-    },
-    {
-        "name": "Astral Chain",
+        "name": "Astral Chain - 60 Fps + Fix",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Astral%20Chain.zip",
         "path": "/"
     },
     {
-        "name": "Bloodstained RotN",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Bloodstained%20RotN.zip",
-        "path": "/atmosphere/contents/"
-    },
-    {
-        "name": "DOOM Eternal",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/DOOM%20Eternal.zip",
-        "path": "/atmosphere/contents/"
-    },
-    {
-        "name": "DOOM 2016",
+        "name": "DOOM 2016 - 60 Fps",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/DOOM.zip",
         "path": "/atmosphere/contents/"
     },
     {
-        "name": "It Takes Two",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/It%20Takes%20Two.zip",
+        "name": "DOOM Eternal - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/DOOM%20Eternal.zip",
         "path": "/atmosphere/contents/"
     },
     {
-        "name": "Zelda TotK 60FPSDR",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%2060FPSDR.zip",
+        "name": "Zelda BoTW - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20BoTW%201.6.0%2060FPS.zip",
         "path": "/"
     },
     {
-        "name": "Zelda TotK visuals 60FPSDR",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals%2060FPSDR.zip",
+        "name": "Zelda TotK - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%2060FPS.zip",
         "path": "/"
     },
     {
-        "name": "Zelda TotK visuals 60FPS",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals%2060FPS.zip",
+        "name": "Zelda TotK - Dyn. Res.",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20DR.zip",
         "path": "/"
     },
     {
-        "name": "Zelda TotK visuals+ 60FPS",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals+%2060FPS.zip",
+        "name": "Zelda TotK - Visuals  ",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals.zip",
+        "path": "/"
+    },
+    {
+        "name": "Zelda TotK - Visuals+",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals+.zip",
         "path": "/"
     }
 ]

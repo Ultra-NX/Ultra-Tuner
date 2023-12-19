@@ -1,52 +1,114 @@
 [
     {
         "name": "Not Adjust",
+        "label": "Not Adjust",
         "comm": "hex-by-custom-offset",
         "dec": "0",
         "hex": "000000"
     },
     {
         "name": "550 mV",
-        "dec": "550"
+        "label": "550 mV",
+        "dec": "550000"
+    },
+    {
+        "name": "555 mV",
+        "label": "555 mV",
+        "dec": "555000"
     },
     {
         "name": "560 mV",
-        "dec": "560"
+        "label": "560 mV",
+        "dec": "560000"
+    },
+    {
+        "name": "565 mV",
+        "label": "565 mV",
+        "dec": "565000"
     },
     {
         "name": "570 mV",
-        "dec": "570"
+        "label": "570 mV",
+        "dec": "570000"
+    },
+    {
+        "name": "575 mV",
+        "label": "575 mV",
+        "dec": "575000"
     },
     {
         "name": "580 mV",
-        "dec": "580"
+        "label": "580 mV",
+        "dec": "580000"
+    },
+    {
+        "name": "585 mV",
+        "label": "585 mV",
+        "dec": "585000"
     },
     {
         "name": "590 mV",
-        "dec": "590"
+        "label": "590 mV",
+        "dec": "590000"
     },
     {
-        "name": "600 mV",
-        "dec": "600"
+        "name": "595 mV",
+        "label": "595 mV",
+        "dec": "595000"
+    },
+    {
+        "name": "600 mV - Default",
+        "label": "600 mV",
+        "dec": "600000"
+    },
+    {
+        "name": "605 mV",
+        "label": "605 mV",
+        "dec": "605000"
     },
     {
         "name": "610 mV",
-        "dec": "610"
+        "label": "610 mV",
+        "dec": "610000"
+    },
+    {
+        "name": "615 mV",
+        "label": "615 mV",
+        "dec": "615000"
     },
     {
         "name": "620 mV",
-        "dec": "620"
+        "label": "620 mV",
+        "dec": "620000"
+    },
+    {
+        "name": "625 mV",
+        "label": "625 mV",
+        "dec": "625000"
     },
     {
         "name": "630 mV",
-        "dec": "630"
+        "label": "630 mV",
+        "dec": "630000"
+    },
+    {
+        "name": "635 mV",
+        "label": "635 mV",
+        "dec": "635000"
     },
     {
         "name": "640 mV",
-        "dec": "640"
+        "label": "640 mV",
+        "dec": "640000"
+    },
+    {
+        "name": "645 mV",
+        "label": "645 mV",
+        "dec": "645000"
     },
     {
         "name": "650 mV",
-        "dec": "650"
+        "label": "650 mV",
+        "dec": "650000"
     }
 ]
