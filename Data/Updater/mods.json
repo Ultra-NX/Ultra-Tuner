@@ -1,42 +1,32 @@
 [
     {
-        "name": "Astral Chain - 60 Fps + Fix",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Astral%20Chain.zip",
-        "path": "/"
-    },
-    {
-        "name": "DOOM 2016 - 60 Fps",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/DOOM.zip",
-        "path": "/atmosphere/contents/"
-    },
-    {
-        "name": "DOOM Eternal - 60 Fps",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/DOOM%20Eternal.zip",
-        "path": "/atmosphere/contents/"
-    },
-    {
-        "name": "Zelda BoTW - 60 Fps",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20BoTW%201.6.0%2060FPS.zip",
-        "path": "/"
-    },
-    {
-        "name": "Zelda TotK - 60 Fps",
+        "name": "FPS Patch Only - 60 Fps",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%2060FPS.zip",
         "path": "/"
     },
     {
-        "name": "Zelda TotK - Dyn. Res.",
+        "name": "Dynamic Res. - 60 Fps",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20DR.zip",
         "path": "/"
     },
     {
-        "name": "Zelda TotK - Visuals  ",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals.zip",
+        "name": "Visual - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20Vis.zip",
         "path": "/"
     },
     {
-        "name": "Zelda TotK - Visuals+",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20visuals+.zip",
+        "name": "Visual+DR - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20Vis+DR.zip",
+        "path": "/"
+    },
+    {
+        "name": "Visual Plus - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20VisPlus.zip",
+        "path": "/"
+    },
+    {
+        "name": "Visual Plus+DR - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20VisPlus+DR.zip",
         "path": "/"
     }
 ]

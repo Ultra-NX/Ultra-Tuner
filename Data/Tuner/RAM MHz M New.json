@@ -1,5 +1,25 @@
 [
     {
+        "name": "1866 MHz",
+        "label": "1866 MHz",
+        "dec": "1866000"
+    },
+    {
+        "name": "1900 MHz",
+        "label": "1900 MHz",
+        "dec": "1900000"
+    },
+    {
+        "name": "1933 MHz",
+        "label": "1933 MHz",
+        "dec": "1933000"
+    },
+    {
+        "name": "1966 MHz",
+        "label": "1966 MHz",
+        "dec": "1966000"
+    },
+    {
         "name": "2000 MHz",
         "label": "2000 MHz",
         "dec": "2000000"
