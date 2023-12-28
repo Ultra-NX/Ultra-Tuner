@@ -10,23 +10,23 @@
         "path": "/"
     },
     {
-        "name": "Visual - 60 Fps",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20Vis.zip",
-        "path": "/"
-    },
-    {
         "name": "Visual+DR - 60 Fps",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20Vis+DR.zip",
         "path": "/"
     },
     {
-        "name": "Visual Plus - 60 Fps",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20VisPlus.zip",
+        "name": "Visual Plus+DR - 60 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20VisPlus+DR.zip",
         "path": "/"
     },
     {
-        "name": "Visual Plus+DR - 60 Fps",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20VisPlus+DR.zip",
+        "name": "Visual - 30 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20Vis.zip",
+        "path": "/"
+    },
+    {
+        "name": "Visual Plus - 30 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20VisPlus.zip",
         "path": "/"
     }
 ]
