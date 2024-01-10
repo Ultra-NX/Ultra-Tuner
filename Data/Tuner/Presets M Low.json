@@ -2,7 +2,7 @@
     {
         "name": "Zeta - ---------       ECO   2000",
         "label": "Zeta",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "1",
         "cpuBoost": "2397000",
         "gpuUV": "2",
@@ -25,7 +25,7 @@
     {
         "name": "Alpha - ---------      ECO+ 2100",
         "label": "Alpha",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "2",
         "cpuBoost": "2397000",
         "gpuUV": "2",
@@ -48,7 +48,7 @@
     {
         "name": "Core - LOW   2266",
         "label": "Core",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "1",
         "cpuBoost": "2397000",
         "gpuUV": "2",
@@ -71,7 +71,7 @@
     {
         "name": "Mega - MED   2400",
         "label": "Mega",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "2",
         "cpuBoost": "2397000",
         "gpuUV": "2",
@@ -94,7 +94,7 @@
     {
         "name": "Ultra - HIGH   2466",
         "label": "Ultra",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "2",
         "cpuBoost": "2397000",
         "gpuUV": "2",
@@ -117,7 +117,7 @@
     {
         "name": "Red - ======     OV     2600",
         "label": "Red",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "2",
         "cpuBoost": "2397000",
         "gpuUV": "2",
@@ -140,7 +140,7 @@
     {
         "name": "Hell - ======     OV+   2666",
         "label": "Hell",
-        "cpuMV": "1180",
+        "cpuMV": "1100",
         "cpuUV": "2",
         "cpuBoost": "2397000",
         "gpuUV": "2",
