@@ -1,86 +1,86 @@
 [
     {
-        "name": "Default",
-        "hex": "00B3"
+        "name": "800 mV",
+        "dec": "800"
     },
     {
-        "name": "-5 mV",
-        "hex": "05B3"
+        "name": "805 mV",
+        "dec": "805"
     },
     {
-        "name": "-10 mV",
-        "hex": "0AB3"
+        "name": "810 mV",
+        "dec": "810"
     },
     {
-        "name": "-15 mV",
-        "hex": "0FB3"
+        "name": "815 mV",
+        "dec": "815"
     },
     {
-        "name": "-20 mV",
-        "hex": "14B3"
+        "name": "820 mV",
+        "dec": "820"
     },
     {
-        "name": "-25 mV",
-        "hex": "19B3"
+        "name": "825 mV",
+        "dec": "825"
     },
     {
-        "name": "-30 mV",
-        "hex": "1EB3"
+        "name": "830 mV",
+        "dec": "830"
     },
     {
-        "name": "-35 mV",
-        "hex": "23B3"
+        "name": "835 mV",
+        "dec": "835"
     },
     {
-        "name": "-40 mV",
-        "hex": "28B3"
+        "name": "840 mV",
+        "dec": "840"
     },
     {
-        "name": "-45 mV",
-        "hex": "2DB3"
+        "name": "845 mV",
+        "dec": "845"
     },
     {
-        "name": "-50 mV",
-        "hex": "32B3"
+        "name": "850 mV - Default",
+        "dec": "850"
     },
     {
-        "name": "-55 mV",
-        "hex": "37B3"
+        "name": "855 mV",
+        "dec": "855"
     },
     {
-        "name": "-60 mV",
-        "hex": "3CB3"
+        "name": "860 mV",
+        "dec": "860"
     },
     {
-        "name": "-65 mV",
-        "hex": "41B3"
+        "name": "865 mV",
+        "dec": "865"
     },
     {
-        "name": "-70 mV",
-        "hex": "46B3"
+        "name": "870 mV",
+        "dec": "870"
     },
     {
-        "name": "-75 mV",
-        "hex": "4BB3"
+        "name": "875 mV",
+        "dec": "875"
     },
     {
-        "name": "-80 mV",
-        "hex": "50B3"
+        "name": "880 mV",
+        "dec": "880"
     },
     {
-        "name": "-85 mV",
-        "hex": "55B3"
+        "name": "885 mV",
+        "dec": "885"
     },
     {
-        "name": "-90 mV",
-        "hex": "5AB3"
+        "name": "890 mV",
+        "dec": "890"
     },
     {
-        "name": "-95 mV",
-        "hex": "5FB3"
+        "name": "895 mV",
+        "dec": "895"
     },
     {
-        "name": "-100 mV",
-        "hex": "64B3"
+        "name": "900 mV",
+        "dec": "900"
     }
 ]
