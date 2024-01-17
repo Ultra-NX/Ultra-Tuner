@@ -1,10 +1,160 @@
 [
     {
-        "name": "Not Adjust",
-        "label": "Not Adjust",
+        "name": "Unset",
+        "label": "Unset",
         "comm": "hex-by-custom-offset",
         "dec": "0",
         "hex": "000000"
+    },
+    {
+        "name": "400 mV",
+        "label": "400 mV",
+        "dec": "400000"
+    },
+    {
+        "name": "405 mV",
+        "label": "405 mV",
+        "dec": "405000"
+    },
+    {
+        "name": "410 mV",
+        "label": "410 mV",
+        "dec": "410000"
+    },
+    {
+        "name": "415 mV",
+        "label": "415 mV",
+        "dec": "415000"
+    },
+    {
+        "name": "420 mV",
+        "label": "420 mV",
+        "dec": "420000"
+    },
+    {
+        "name": "425 mV",
+        "label": "425 mV",
+        "dec": "425000"
+    },
+    {
+        "name": "430 mV",
+        "label": "430 mV",
+        "dec": "430000"
+    },
+    {
+        "name": "435 mV",
+        "label": "435 mV",
+        "dec": "435000"
+    },
+    {
+        "name": "440 mV",
+        "label": "440 mV",
+        "dec": "440000"
+    },
+    {
+        "name": "445 mV",
+        "label": "445 mV",
+        "dec": "445000"
+    },
+    {
+        "name": "450 mV",
+        "label": "450 mV",
+        "dec": "450000"
+    },
+    {
+        "name": "455 mV",
+        "label": "455 mV",
+        "dec": "455000"
+    },
+    {
+        "name": "460 mV",
+        "label": "460 mV",
+        "dec": "460000"
+    },
+    {
+        "name": "465 mV",
+        "label": "465 mV",
+        "dec": "465000"
+    },
+    {
+        "name": "470 mV",
+        "label": "470 mV",
+        "dec": "470000"
+    },
+    {
+        "name": "475 mV",
+        "label": "475 mV",
+        "dec": "475000"
+    },
+    {
+        "name": "480 mV",
+        "label": "480 mV",
+        "dec": "480000"
+    },
+    {
+        "name": "485 mV",
+        "label": "485 mV",
+        "dec": "485000"
+    },
+    {
+        "name": "490 mV",
+        "label": "490 mV",
+        "dec": "490000"
+    },
+    {
+        "name": "495 mV",
+        "label": "495 mV",
+        "dec": "495000"
+    },
+    {
+        "name": "500 mV",
+        "label": "500 mV",
+        "dec": "500000"
+    },
+    {
+        "name": "505 mV",
+        "label": "505 mV",
+        "dec": "505000"
+    },
+    {
+        "name": "510 mV",
+        "label": "510 mV",
+        "dec": "510000"
+    },
+    {
+        "name": "515 mV",
+        "label": "515 mV",
+        "dec": "515000"
+    },
+    {
+        "name": "520 mV",
+        "label": "520 mV",
+        "dec": "520000"
+    },
+    {
+        "name": "525 mV",
+        "label": "525 mV",
+        "dec": "525000"
+    },
+    {
+        "name": "530 mV",
+        "label": "530 mV",
+        "dec": "530000"
+    },
+    {
+        "name": "535 mV",
+        "label": "535 mV",
+        "dec": "535000"
+    },
+    {
+        "name": "540 mV",
+        "label": "540 mV",
+        "dec": "540000"
+    },
+    {
+        "name": "545 mV",
+        "label": "545 mV",
+        "dec": "545000"
     },
     {
         "name": "550 mV",
