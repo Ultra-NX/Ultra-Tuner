@@ -7,6 +7,56 @@
         "hex": "0000"
     },
     {
+        "name": "400 mV",
+        "label": "400 mV",
+        "dec": "400"
+    },
+    {
+        "name": "405 mV",
+        "label": "405 mV",
+        "dec": "405"
+    },
+    {
+        "name": "410 mV",
+        "label": "410 mV",
+        "dec": "410"
+    },
+    {
+        "name": "415 mV",
+        "label": "415 mV",
+        "dec": "415"
+    },
+    {
+        "name": "420 mV",
+        "label": "420 mV",
+        "dec": "420"
+    },
+    {
+        "name": "425 mV",
+        "label": "425 mV",
+        "dec": "425"
+    },
+    {
+        "name": "430 mV",
+        "label": "430 mV",
+        "dec": "430"
+    },
+    {
+        "name": "435 mV",
+        "label": "435 mV",
+        "dec": "435"
+    },
+    {
+        "name": "440 mV",
+        "label": "440 mV",
+        "dec": "440"
+    },
+    {
+        "name": "445 mV",
+        "label": "445 mV",
+        "dec": "445"
+    },
+    {
         "name": "450 mV",
         "label": "450 mV",
         "dec": "450"
