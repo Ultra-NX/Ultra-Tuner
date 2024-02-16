@@ -130,12 +130,12 @@
         "dec": "2433000"
     },
     {
-        "name": "2466 MHz",
+        "name": "2466 MHz - Ultra",
         "label": "2466 MHz",
         "dec": "2466000"
     },
     {
-        "name": "2500 MHz - Ultra",
+        "name": "2500 MHz",
         "label": "2500 MHz",
         "dec": "2500000"
     },
