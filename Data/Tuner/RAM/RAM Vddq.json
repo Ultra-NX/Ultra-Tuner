@@ -1,12 +1,5 @@
 [
     {
-        "name": "Unset",
-        "label": "Unset",
-        "comm": "hex-by-custom-offset",
-        "dec": "0",
-        "hex": "000000"
-    },
-    {
         "name": "400 mV",
         "label": "400 mV",
         "dec": "400000"

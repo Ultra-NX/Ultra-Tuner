@@ -1,14 +1,17 @@
 [
     {
-        "name": "Auto Adjust",
+        "name": "Auto Adjust - [0]",
+        "label": "Auto Adjust",
         "hex": "0"
     },
     {
-        "name": "Custom Adj.",
+        "name": "Auto Adj. HP - [1]",
+        "label": "Auto Adj. HP",
         "hex": "1"
     },
     {
-        "name": "Not Adjust",
+        "name": "Not Adjust - [2]",
+        "label": "Not Adjust",
         "hex": "2"
     }
 ]

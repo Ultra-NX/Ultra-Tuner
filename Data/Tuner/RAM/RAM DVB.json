@@ -1,27 +1,27 @@
 [
     {
-        "name": "Unset",
+        "name": "Unset - [0]",
         "label": "Unset",
         "hex": "0"
     },
     {
-        "name": "[1] - +25mV",
-        "label": "[1]",
+        "name": "+25 mV - [1]",
+        "label": "+25 mV",
         "hex": "1"
     },
     {
-        "name": "[2] - +50mV",
-        "label": "[2]",
+        "name": "+50 mV - [2]",
+        "label": "+50 mV",
         "hex": "2"
     },
     {
-        "name": "[3] - +75mV",
-        "label": "[3]",
+        "name": "+75 mV - [3]",
+        "label": "+75 mV",
         "hex": "3"
     },
     {
-        "name": "[4] - +100mV",
-        "label": "[4]",
+        "name": "+100 mV - [4]",
+        "label": "+100 mV",
         "hex": "4"
     }
 ]
