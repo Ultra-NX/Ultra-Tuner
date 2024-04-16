@@ -12,6 +12,7 @@
 * Since its first appearance, fully supports Erista
 * Convenient and clear structure and wide functionality
 * Extended voltages limits in comparison with analogs
+* Display all important settings on a couple of pages - in the Current menu
 * A lot of built-in overclocking presets, with which you will not have to manually go through dozens of timings and voltages.
 * Unique backup system of overclocking presets, your backups will be up to date even after Suite/Switchcraft updates!
 * Choice of micro overlay [Ultra Status Monitor](https://github.com/Ultra-NX/Ultra-Status-Monitor) presets, where there are both classic options (Masagrator, Meha) and a lot of unique ones.
