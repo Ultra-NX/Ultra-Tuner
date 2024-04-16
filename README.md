@@ -1,8 +1,11 @@
 # Ultra Tuner by **[redraz](https://github.com/redraz)**
 
-### [English Readme](README_ENG.md) | [Группа в телеграме](https://t.me/UltraNX)
+### [English Readme](README_ENG.md) | [Группа в телеграме](https://t.me/UltraNX) | [Ultra-NX](https://github.com/Ultra-NX/Ultra)
 
 ### Ultra Tuner - Лучшее решение для конфигурации разгона на Nintendo Switch!
+
+### Актуальный разгон: OC-Switchcraft 1.1.1 pre-release for 18 HOS
+### Актуальная Ultrahand: 1.5.0 (Но визуально красивее на [Ultra Paw](https://github.com/Ultra-NX/Ultra-Paw-Overlay))
 
 ## Особенности Ultra Tuner
 * Самый первый конфигуратор разгона на свитче, все аналоги были сделаны на основе Тюнера
@@ -21,6 +24,8 @@
    * Отключение фоновых сервисов влияющих на потребление в режиме сна
    * Настройка битрейта и частоты кадров фоновой записи игр (Выбор длительности в секундах)
 
+## Ultra-NX
+Ultra Tuner делается для лучшей CFW для Nintendo Switch - [Ultra-NX](https://github.com/Ultra-NX/Ultra). Обязательно попробуйте ее, если вам понравился Tuner.
 
 ## Благодарности 
 

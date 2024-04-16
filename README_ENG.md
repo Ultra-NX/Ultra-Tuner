@@ -1,8 +1,11 @@
 # Ultra Tuner by **[redraz](https://github.com/redraz)**
 
-### [Russian Readme](README.md) | [Telegram group](https://t.me/UltraNX)
+### [Russian Readme](README.md) | [Telegram group](https://t.me/UltraNX) | [Ultra-NX](https://github.com/Ultra-NX/Ultra)
 
 ### Ultra Tuner - The best solution for overclocking configuration on Nintendo Switch!
+
+### Actual Overclocking: OC-Switchcraft 1.1.1 pre-release for 18 HOS
+### Actual Ultrahand: 1.5.0 (But visually prettier on [Ultra Paw](https://github.com/Ultra-NX/Ultra-Paw-Overlay))
 
 ## Features of Ultra Tuner
 * The very first overclocking configurator on a switch, all analogs were made on the basis of Tuner
@@ -21,6 +24,8 @@
    * Disabling background services that affect consumption in sleep mode
    * Customize bitrate and framerate of background game recording (Select duration in seconds)
 
+## Ultra-NX
+Ultra Tuner is made for the best CFW for the Nintendo Switch, [Ultra-NX](https://github.com/Ultra-NX/Ultra). Be sure to give it a try if you enjoyed Tuner.
 
 ## Credits 
 
