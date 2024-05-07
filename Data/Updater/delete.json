@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DVR Patches",
+        "path1": "/atmosphere/exefs_patches/am/"
+    },
+    {
+        "name": "sys-ftpd",
+        "path1": "/atmosphere/contents/420000000000000E/",
+        "path2": "/config/sys-ftpd/"
+    },
+    {
+        "name": "sys-tune",
+        "path1": "/switch/.overlays/sys-tune-overlay.ovl",
+        "path2": "/atmosphere/contents/4200000000000000/",
+        "path3": "/config/sys-tune/"
+    },
+    {
+        "name": "sys-con",
+        "path1": "/atmosphere/contents/690000000000000D/",
+        "path2": "/config/sys-con/"
+    }
+]

@@ -1,5 +1,10 @@
 [
     {
+        "name": "Uninstall Mods - 30 Fps",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%20Uninstall.zip",
+        "path": "/"
+    },
+    {
         "name": "FPS Patch Only - 60 Fps",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/mods/Zelda%20TotK%201.2.1%2060FPS.zip",
         "path": "/"

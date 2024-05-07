@@ -7,56 +7,6 @@
         "hex": "0000"
     },
     {
-        "name": "650 mV",
-        "label": "650 mV",
-        "dec": "650"
-    },
-    {
-        "name": "655 mV",
-        "label": "655 mV",
-        "dec": "655"
-    },
-    {
-        "name": "660 mV",
-        "label": "660 mV",
-        "dec": "660"
-    },
-    {
-        "name": "665 mV",
-        "label": "665 mV",
-        "dec": "665"
-    },
-    {
-        "name": "670 mV",
-        "label": "670 mV",
-        "dec": "670"
-    },
-    {
-        "name": "675 mV",
-        "label": "675 mV",
-        "dec": "675"
-    },
-    {
-        "name": "680 mV",
-        "label": "680 mV",
-        "dec": "680"
-    },
-    {
-        "name": "685 mV",
-        "label": "685 mV",
-        "dec": "685"
-    },
-    {
-        "name": "690 mV",
-        "label": "690 mV",
-        "dec": "690"
-    },
-    {
-        "name": "695 mV",
-        "label": "695 mV",
-        "dec": "695"
-    },
-    {
         "name": "700 mV",
         "label": "700 mV",
         "dec": "700"
