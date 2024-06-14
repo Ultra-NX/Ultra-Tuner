@@ -5,13 +5,13 @@
         "hex": "0"
     },
     {
-        "name": "SLT - [1]",
-        "label": "SLT",
+        "name": "M Static - [1]",
+        "label": "M Static",
         "hex": "1"
     },
     {
-        "name": "HiOPT - [2]",
-        "label": "HiOPT",
+        "name": "High UV - [2]",
+        "label": "High UV",
         "hex": "2"
     },
     {

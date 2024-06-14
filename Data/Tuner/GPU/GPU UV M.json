@@ -1,0 +1,22 @@
+[
+    {
+        "name": "HiOPT - [0]",
+        "label": "HiOPT",
+        "hex": "0"
+    },
+    {
+        "name": "HiOPT+ - [1]",
+        "label": "HiOPT+",
+        "hex": "1"
+    },
+    {
+        "name": "High UV - [2]",
+        "label": "High UV",
+        "hex": "2"
+    },
+    {
+        "name": "Custom - [3]",
+        "label": "Custom",
+        "hex": "3"
+    }
+]
