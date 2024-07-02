@@ -1,53 +1,47 @@
 # Ultra Tuner by **[redraz](https://github.com/redraz)**
 
-### [English Readme](README_ENG.md) | [Группа в телеграме](https://t.me/UltraNX) | [Ultra-NX](https://github.com/Ultra-NX/Ultra)
+### [Russian Readme](README_RU.md) | [Telegram group](https://t.me/UltraNX) | [Ultra-NX](https://github.com/Ultra-NX/Ultra)
 
-### Ultra Tuner - Лучшее решение для конфигурации разгона на Nintendo Switch!
+### Ultra Tuner - The best solution for overclocking configuration on Nintendo Switch!
 
-#### Актуальный разгон: [OC-Switchcraft](https://discord.com/channels/854839758815363072/1173171845139288114/1231693508021190760) 1.2 pre-release for 18 HOS
-#### Актуальная [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay) 1.5.1+
+#### Actual Overclocking: [OC-Switchcraft](https://discord.com/channels/854839758815363072/1173171845139288114/1231693508021190760) 1.2 pre-release for 18 HOS
+#### Actual [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay) 1.5.1+
 
-## Особенности Ultra Tuner
-* Самый первый конфигуратор разгона на свитче, все аналоги были сделаны на основе Тюнера
-* С первого своего появления полноценно поддерживает Эристы
-* Удобная и понятная структура, и широкий функционал
-* Расширенные лимиты вольтажей в сравнении с аналогами
-* Отображение всех важных настроек на паре страниц - в меню Current
-* Множество встроенных Пресетов разгона, с которыми вам не придется вручную перебирать десятки таймингов и вольтажей
-* Уникальная система бэкапов настроек разгона, ваши бэкапы будут актуальны даже после обновлений Сьюта/Свитчкрафта!
-* Выбор пресетов микро оверлея [Ultra Status Monitor](https://github.com/Ultra-NX/Ultra-Status-Monitor), где есть как классические варианты (Masagrator, Meha), так и уйма уникальных
-* Множество дополнительных настроек, как:
-   * Обновление через встроенный Updater
-   * Скачивание ряда полезных Homebrew
-   * Установка модов на Zelda: TotK
-   * Выбор между двумя настройками кулера
-   * Возможность включить 4х поточное hbl меню
-   * Отключение фоновых сервисов влияющих на потребление в режиме сна
-   * Настройка битрейта и частоты кадров фоновой записи игр (Выбор длительности в секундах)
+## Features of Ultra Tuner
+* The very first overclocking configurator on a switch, all analogs were made on the basis of Tuner
+* Since its first appearance, fully supports Erista
+* Convenient and clear structure and wide functionality
+* Extended voltages limits in comparison with analogs
+* Display all important settings on a couple of pages - in the Current menu
+* A lot of built-in overclocking presets, with which you will not have to manually go through dozens of timings and voltages.
+* Unique backup system of overclocking presets, your backups will be up to date even after Suite/Switchcraft updates!
+* Choice of micro overlay [Ultra Status Monitor](https://github.com/Ultra-NX/Ultra-Status-Monitor) presets, where there are both classic options (Masagrator, Meha) and a lot of unique ones.
+* A lot of additional settings like:
+   * Updating via the built-in Updater
+   * Downloading some useful Homebrews
+   * Installing mods for Zelda: TotK
+   * Choosing between two cooler settings
+   * Ability to enable 4x threaded hbl menu
+   * Disabling background services that affect consumption in sleep mode
+   * Customize bitrate and framerate of background game recording (Select duration in seconds)
 
 ## Ultra-NX
-Ultra Tuner делается для лучшей CFW для Nintendo Switch - [Ultra-NX](https://github.com/Ultra-NX/Ultra). Обязательно попробуйте ее, если вам понравился Tuner.
+Ultra Tuner is made for the best CFW for the Nintendo Switch, [Ultra-NX](https://github.com/Ultra-NX/Ultra). Be sure to give it a try if you enjoyed Tuner.
 
-## Благодарности 
+## Credits 
 
 * B3711
 * Meha
 * ppkantorski
 * snupt
-#### А так же - отдельная благодарность администрации и участникам Ultra Group
+#### And also - a special thanks to the administration and members of Ultra Group
 
-## Поддержка
+## Support
 
-Если вам нравится проект, и у вас появилось желание поддержать меня копеечкой - я буду очень благодарен.
-У меня в данный момент нет других заработков, так что любая денежная помощь очень ценна для меня.            
-
-### Tinkoff QR
-![](https://github.com/Ultra-NX/Ultra-Resources/raw/main/Tinkoff%20small.png)
+If you like the project and you have a desire to support me with a penny - I will be very grateful.
+I have no other income at the moment, so any monetary help is very valuable to me.            
 ```
 TON:  UQDioCnnPI5sk4KvxWzfPWsWbAyWCkzwhaYjy8Qpg2QwWMiL
 BTC:  1HsC4z8X1YkZzcSKZz1t7MXRa7rPi8qChV
 USDT: TQi3qLVrNGcr6avfVQBXRjpPTyvp5JZ7i2
-
-Сбербанк: 2202200513345833
-Tinkoff:  2200700170486970
 ```
