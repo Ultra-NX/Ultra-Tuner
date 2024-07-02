@@ -4,8 +4,8 @@
 
 ### Ultra Tuner - The best solution for overclocking configuration on Nintendo Switch!
 
-#### Actual Overclocking: [OC-Switchcraft](https://discord.com/channels/854839758815363072/1173171845139288114/1231693508021190760) 1.2 pre-release for 18 HOS
-#### Actual [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay) 1.5.1+
+#### Actual Overclocking: [OC-Switchcraft](https://discord.com/channels/854839758815363072/1173171845139288114/1253645315429371978) 1.3.2 for 18.1.0 HOS
+#### Actual [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay) 1.6.4+
 
 ## Features of Ultra Tuner
 * The very first overclocking configurator on a switch, all analogs were made on the basis of Tuner

@@ -4,8 +4,8 @@
 
 ### Ultra Tuner - Лучшее решение для конфигурации разгона на Nintendo Switch!
 
-#### Актуальный разгон: [OC-Switchcraft](https://discord.com/channels/854839758815363072/1173171845139288114/1231693508021190760) 1.2 pre-release for 18 HOS
-#### Актуальная [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay) 1.5.1+
+#### Актуальный разгон: [OC-Switchcraft](https://discord.com/channels/854839758815363072/1173171845139288114/1253645315429371978) 1.3.2 for 18.1.0 HOS
+#### Актуальная [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay) 1.6.4+
 
 ## Особенности Ultra Tuner
 * Самый первый конфигуратор разгона на свитче, все аналоги были сделаны на основе Тюнера
