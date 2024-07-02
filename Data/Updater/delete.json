@@ -11,6 +11,13 @@
         "path4": "/switch/Fizeau/"
     },
     {
+        "name": "TriPlayer",
+        "path1": "/atmosphere/contents/4200000000000FFF/",
+        "path2": "/config/TriPlayer/",
+        "path3": "/switch/.overlays/ovl-TriPlayer.ovl",
+        "path4": "/switch/TriPlayer/"
+    },
+    {
         "name": "sys-ftpd",
         "path1": "/atmosphere/contents/420000000000000E/",
         "path2": "/config/sys-ftpd/"
