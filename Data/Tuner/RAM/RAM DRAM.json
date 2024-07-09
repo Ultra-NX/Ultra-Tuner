@@ -5,23 +5,18 @@
         "hex": "0"
     },
     {
-        "name": "Auto Adj HP - [1]",
-        "label": "Auto Adj HP",
+        "name": "Auto Adj LV - [1]",
+        "label": "Auto Adj LV",
         "hex": "1"
     },
     {
-        "name": "Auto Adj LV - [2]",
-        "label": "Auto Adj LV",
+        "name": "Auto Adj LV HP - [2]",
+        "label": "Auto Adj LV HP",
         "hex": "2"
     },
     {
-        "name": "Auto Adj LV HP - [3]",
-        "label": "Auto Adj LV HP",
-        "hex": "3"
-    },
-    {
-        "name": "Not Adjust - [4]",
+        "name": "Not Adjust - [3]",
         "label": "Not Adjust",
-        "hex": "4"
+        "hex": "3"
     }
 ]
