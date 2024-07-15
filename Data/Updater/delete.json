@@ -18,6 +18,18 @@
         "path4": "/switch/TriPlayer/"
     },
     {
+        "name": "Mission Control",
+        "path1": "/atmosphere/contents/010000000000bd00/",
+        "path2": "/atmosphere/exefs_patches/bluetooth_patches/",
+        "path3": "/atmosphere/exefs_patches/btm_patches/",
+        "path4": "/config/MissionControl/"
+    },
+    {
+        "name": "sys-con",
+        "path1": "/atmosphere/contents/690000000000000D/",
+        "path2": "/config/sys-con/"
+    },
+    {
         "name": "sys-ftpd",
         "path1": "/atmosphere/contents/420000000000000E/",
         "path2": "/config/sys-ftpd/"
@@ -27,10 +39,5 @@
         "path1": "/atmosphere/contents/4200000000000000/",
         "path2": "/config/sys-tune/",
         "path3": "/switch/.overlays/sys-tune-overlay.ovl"
-    },
-    {
-        "name": "sys-con",
-        "path1": "/atmosphere/contents/690000000000000D/",
-        "path2": "/config/sys-con/"
     }
 ]
