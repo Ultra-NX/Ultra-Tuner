@@ -1,36 +1,36 @@
 [
     {
-        "name": "[0] - 0",
+        "name": "[0] - 1x REFI",
         "label": "[0]",
         "hex": "0"
     },
     {
-        "name": "[1] - -2",
+        "name": "[1] - 1.5x REFI",
         "label": "[1]",
         "hex": "1"
     },
     {
-        "name": "[2] - -4",
+        "name": "[2] - 2x REFI",
         "label": "[2]",
         "hex": "2"
     },
     {
-        "name": "[3] - -6",
+        "name": "[3] - 3x REFI",
         "label": "[3]",
         "hex": "3"
     },
     {
-        "name": "[4] - -8",
+        "name": "[4] - 4x REFI",
         "label": "[4]",
         "hex": "4"
     },
     {
-        "name": "[5] - -10",
+        "name": "[5] - 6x REFI",
         "label": "[5]",
         "hex": "5"
     },
     {
-        "name": "[6] - -12",
+        "name": "[6] - MAX REFI",
         "label": "[6]",
         "hex": "6"
     }

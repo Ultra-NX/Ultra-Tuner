@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Auto - Depends on Vmin & UV",
+        "label": "Auto",
+        "dec": "0"
+    },
+    {
+        "name": "Default - Without modifications",
+        "label": "Default",
+        "dec": "1"
+    },
+    {
+        "name": "Tbreak - High MHz 1683→1581",
+        "label": "Tbreak",
+        "dec": "2"
+    }
+]
