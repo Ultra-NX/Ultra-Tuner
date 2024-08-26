@@ -1,26 +1,29 @@
 [
     {
-        "name": "Samsung AM-MGCJ"
-    },
-    {
-        "name": "Samsung AB-MGCL"
+        "name": "Not Selected"
     },
     {
         "name": "Samsung AA-MGCL"
     },
     {
-        "name": "Micron WT:F"
+        "name": "Samsung AB-MGCL"
     },
     {
-        "name": "Micron WT:E"
+        "name": "Samsung AM-MGCJ"
     },
     {
         "name": "Micron WT:B"
     },
     {
-        "name": "Hynix NME"
+        "name": "Micron WT:E"
+    },
+    {
+        "name": "Micron WT:F"
     },
     {
         "name": "Hynix NEE"
+    },
+    {
+        "name": "Hynix NME"
     }
 ]
