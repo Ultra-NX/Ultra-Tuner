@@ -1,6 +1,7 @@
 # Ultra Tuner by **[redraz](https://github.com/redraz)**
 
-### [Russian Readme](README_RU.md) | [Telegram group](https://t.me/UltraNX) | [Ultra-NX](https://github.com/Ultra-NX/Ultra)
+## [Russian Readme](README_RU.md) | [Ultra-NX](https://github.com/Ultra-NX/Ultra) - Best CFW for Switch
+## [Telegram group](https://t.me/UltraNX) - Don't be afraid to write in English, we will understand everything and answer you!
 
 ### Ultra Tuner - The best solution for overclocking configuration on Nintendo Switch!
 
@@ -8,22 +9,21 @@
 * The very first overclocking configurator on a switch, all analogs were made on the basis of Tuner
 * Since its first appearance, fully supports Erista
 * Convenient and clear structure and wide functionality
-* Extended voltages limits in comparison with analogs
 * Display all important settings on a couple of pages - in the Current menu
-* A lot of built-in overclocking presets, with which you will not have to manually go through dozens of timings and voltages.
+* A lot of built-in overclocking presets, with which you will not have to manually go through dozens of timings and voltages
 * Unique backup system of overclocking presets, your backups will be up to date even after Suite/Switchcraft updates!
-* Choice of micro overlay [Ultra Status Monitor](https://github.com/Ultra-NX/Ultra-Status-Monitor) presets, where there are both classic options (Masagrator, Meha) and a lot of unique ones.
+* Choice of micro overlay [Status Monitor Ultra](https://github.com/Ultra-NX/Ultra-Status-Monitor) presets, where there are both classic options (Masagrator, Meha) and a lot of unique ones.
 * A lot of additional settings like:
    * Updating via the built-in Updater
    * Downloading some useful Homebrews
    * Installing mods for Zelda: TotK
-   * Choosing between two cooler settings
+   * Detailed configuration of the cooling system
    * Ability to enable 4x threaded hbl menu
    * Disabling background services that affect consumption in sleep mode
    * Customize bitrate and framerate of background game recording (Select duration in seconds)
 
 ## Ultra-NX
-Ultra Tuner is made for the best CFW for the Nintendo Switch, [Ultra-NX](https://github.com/Ultra-NX/Ultra). Be sure to give it a try if you enjoyed Tuner.
+Ultra Tuner is made for the best CFW for the Nintendo Switch, [Ultra-NX](https://github.com/Ultra-NX/Ultra). Be sure to give it a try if you enjoyed Tuner
 
 ## Credits 
 
