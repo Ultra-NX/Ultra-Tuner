@@ -1,6 +1,6 @@
 [
     {
-        "name": "DBI RU - 679",
+        "name": "DBI RU - Latest",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
         "path": "/switch/"
     },
@@ -17,6 +17,11 @@
     {
         "name": "DBI ZHCN - 647",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
+        "path": "/switch/"
+    },
+    {
+        "name": "DBI Config - With notUltraNX",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20Config.zip",
         "path": "/switch/"
     }
 ]
