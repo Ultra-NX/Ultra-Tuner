@@ -1,56 +1,56 @@
 [
   {
-    "name": "1500 Val - Speedo lvl 0",
+    "name": "1500 Val - Speedo lvl 1.0",
     "label": "1500 Val",
     "dec": "1500"
   },
   {
-    "name": "1525 Val - Speedo lvl 1",
+    "name": "1525 Val - Speedo lvl 1.5",
     "label": "1525 Val",
     "dec": "1525"
   },
   {
-    "name": "1550 Val - Speedo lvl 2",
+    "name": "1550 Val - Speedo lvl 2.0",
     "label": "1550 Val",
     "dec": "1550"
   },
   {
-    "name": "1575 Val - Speedo lvl 3",
+    "name": "1575 Val - Speedo lvl 2.5",
     "label": "1575 Val",
     "dec": "1575"
   },
   {
-    "name": "1600 Val - Speedo lvl 4",
+    "name": "1600 Val - Speedo lvl 3.0",
     "label": "1600 Val",
     "dec": "1600"
   },
   {
-    "name": "1625 Val - Speedo lvl 5",
+    "name": "1625 Val - Speedo lvl 3.5",
     "label": "1625 Val",
     "dec": "1625"
   },
   {
-    "name": "1650 Val - Speedo lvl 6",
+    "name": "1650 Val - Speedo lvl 4.0",
     "label": "1650 Val",
     "dec": "1650"
   },
   {
-    "name": "1675 Val - Speedo lvl 7",
+    "name": "1675 Val - Speedo lvl 4.5",
     "label": "1675 Val",
     "dec": "1675"
   },
   {
-    "name": "1700 Val - Speedo lvl 8",
+    "name": "1700 Val - Speedo lvl 5.0",
     "label": "1700 Val",
     "dec": "1700"
   },
   {
-    "name": "1725 Val - Speedo lvl 9",
+    "name": "1725 Val - Speedo lvl 5.5",
     "label": "1725 Val",
     "dec": "1725"
   },
   {
-    "name": "1750 Val - Speedo lvl X",
+    "name": "1750 Val - Speedo lvl 6.0",
     "label": "1750 Val",
     "dec": "1750"
   }
