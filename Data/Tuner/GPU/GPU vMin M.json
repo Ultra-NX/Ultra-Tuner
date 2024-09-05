@@ -1,7 +1,7 @@
 [
     {
-        "name": "Unset",
-        "label": "Unset",
+        "name": "Auto",
+        "label": "Auto",
         "comm": "hex-by-custom-offset",
         "dec": "0",
         "hex": "0000"

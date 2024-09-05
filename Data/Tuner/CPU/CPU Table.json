@@ -13,5 +13,15 @@
         "name": "Tbreak - High MHz 1683→1581",
         "label": "Tbreak",
         "dec": "2"
+    },
+    {
+        "name": "Fixated 1 - Prevents a table shift",
+        "label": "Fixated 1",
+        "dec": "3"
+    },
+    {
+        "name": "Fixated 2 - Fix1+a bit lower volts",
+        "label": "Fixated 2",
+        "dec": "4"
     }
 ]
