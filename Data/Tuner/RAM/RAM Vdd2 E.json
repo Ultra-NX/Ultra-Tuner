@@ -50,7 +50,7 @@
         "dec": "1112500"
     },
     {
-        "name": "1125 mV - Default",
+        "name": "1125 mV - Stock",
         "label": "1125 mV",
         "dec": "1125000"
     },
@@ -80,7 +80,7 @@
         "dec": "1187500"
     },
     {
-        "name": "1200 mV",
+        "name": "1200 mV - Default",
         "label": "1200 mV",
         "dec": "1200000"
     },

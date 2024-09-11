@@ -40,7 +40,7 @@
         "dec": "1977600"
     },
     {
-        "name": "1996 MHz - Core",
+        "name": "1996 MHz",
         "label": "1996 MHz",
         "dec": "1996800"
     },
@@ -75,7 +75,7 @@
         "dec": "2112000"
     },
     {
-        "name": "2131 MHz - Mega",
+        "name": "2131 MHz",
         "label": "2131 MHz",
         "dec": "2131200"
     },
@@ -90,7 +90,7 @@
         "dec": "2169600"
     },
     {
-        "name": "2188 MHz - Ultra",
+        "name": "2188 MHz",
         "label": "2188 MHz",
         "dec": "2188800"
     },
@@ -115,7 +115,7 @@
         "dec": "2265600"
     },
     {
-        "name": "2284 MHz - Red",
+        "name": "2284 MHz",
         "label": "2284 MHz",
         "dec": "2284800"
     },
@@ -130,7 +130,7 @@
         "dec": "2323200"
     },
     {
-        "name": "2342 MHz - Serious?",
+        "name": "2342 MHz",
         "label": "2342 MHz",
         "dec": "2342400"
     },
@@ -145,7 +145,7 @@
         "dec": "2380800"
     },
     {
-        "name": "2400 MHz - You're insane!",
+        "name": "2400 MHz",
         "label": "2400 MHz",
         "dec": "2400000"
     },
@@ -165,7 +165,7 @@
         "dec": "2457600"
     },
     {
-        "name": "2476 MHz - Oh shit...",
+        "name": "2476 MHz",
         "label": "2476 MHz",
         "dec": "2476800"
     },
@@ -185,7 +185,7 @@
         "dec": "2534400"
     },
     {
-        "name": "2553 MHz - emuNAND's rip",
+        "name": "2553 MHz",
         "label": "2553 MHz",
         "dec": "2553600"
     }

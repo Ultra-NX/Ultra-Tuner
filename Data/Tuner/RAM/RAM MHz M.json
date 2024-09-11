@@ -40,7 +40,7 @@
         "dec": "1833000"
     },
     {
-        "name": "1866 MHz",
+        "name": "1866 MHz - Erista",
         "label": "1866 MHz",
         "dec": "1866000"
     },
@@ -100,7 +100,7 @@
         "dec": "2233000"
     },
     {
-        "name": "2266 MHz - Core",
+        "name": "2266 MHz",
         "label": "2266 MHz",
         "dec": "2266000"
     },
@@ -120,7 +120,7 @@
         "dec": "2366000"
     },
     {
-        "name": "2400 MHz - Mega",
+        "name": "2400 MHz",
         "label": "2400 MHz",
         "dec": "2400000"
     },
@@ -130,7 +130,7 @@
         "dec": "2433000"
     },
     {
-        "name": "2466 MHz - Ultra",
+        "name": "2466 MHz",
         "label": "2466 MHz",
         "dec": "2466000"
     },
@@ -150,7 +150,7 @@
         "dec": "2566000"
     },
     {
-        "name": "2600 MHz - Red",
+        "name": "2600 MHz",
         "label": "2600 MHz",
         "dec": "2600000"
     },
@@ -165,7 +165,7 @@
         "dec": "2666000"
     },
     {
-        "name": "2700 MHz - Serious?",
+        "name": "2700 MHz",
         "label": "2700 MHz",
         "dec": "2700000"
     },
@@ -180,7 +180,7 @@
         "dec": "2766000"
     },
     {
-        "name": "2800 MHz - You're insane!",
+        "name": "2800 MHz",
         "label": "2800 MHz",
         "dec": "2800000"
     },
@@ -195,7 +195,7 @@
         "dec": "2866000"
     },
     {
-        "name": "2900 MHz - Oh shit...",
+        "name": "2900 MHz",
         "label": "2900 MHz",
         "dec": "2900000"
     },
@@ -210,8 +210,38 @@
         "dec": "2966000"
     },
     {
-        "name": "3000 MHz - emuNAND's rip",
+        "name": "3000 MHz",
         "label": "3000 MHz",
         "dec": "3000000"
+    },
+    {
+        "name": "3033 MHz",
+        "label": "3033 MHz",
+        "dec": "3033000"
+    },
+    {
+        "name": "3066 MHz",
+        "label": "3066 MHz",
+        "dec": "3066000"
+    },
+    {
+        "name": "3100 MHz",
+        "label": "3100 MHz",
+        "dec": "3100000"
+    },
+    {
+        "name": "3133 MHz",
+        "label": "3133 MHz",
+        "dec": "3133000"
+    },
+    {
+        "name": "3166 MHz",
+        "label": "3166 MHz",
+        "dec": "3166000"
+    },
+    {
+        "name": "3200 MHz",
+        "label": "3200 MHz",
+        "dec": "3200000"
     }
 ]
