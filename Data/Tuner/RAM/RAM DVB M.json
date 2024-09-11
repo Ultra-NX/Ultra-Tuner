@@ -1,5 +1,10 @@
 [
     {
+        "name": "-75 mV",
+        "label": "-75 mV",
+        "hex": "FDFFFFFF"
+    },
+    {
         "name": "-50 mV",
         "label": "-50 mV",
         "hex": "FEFFFFFF"
