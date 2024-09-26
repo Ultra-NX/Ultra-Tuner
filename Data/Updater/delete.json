@@ -27,7 +27,8 @@
     {
         "name": "sys-con",
         "path1": "/atmosphere/contents/690000000000000D/",
-        "path2": "/config/sys-con/"
+        "path2": "/config/sys-con/",
+        "path3": "/switch/sys-con.nro"
     },
     {
         "name": "sys-ftpd",
