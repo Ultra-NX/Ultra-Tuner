@@ -1,26 +1,26 @@
 [
     {
-        "name": "DBI RU - 713+",
+        "name": "Russian - 716+",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
         "path": "/switch/"
     },
     {
-        "name": "DBI PTBR - 708",
+        "name": "Portuguese - 715",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20PTBR.zip",
+        "path": "/switch/"
+    },
+    {
+        "name": "English - 658",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20EN.zip",
         "path": "/switch/"
     },
     {
-        "name": "DBI EN - 658",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20EN.zip",
+        "name": "Chinese - 647",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20ZHCN.zip",
         "path": "/switch/"
     },
     {
-        "name": "DBI ZHCN - 647",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "DBI Config - With notUltraNX",
+        "name": "Only Config - With notUltraNX",
         "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20Config.zip",
         "path": "/switch/"
     }
