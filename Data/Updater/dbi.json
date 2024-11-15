@@ -1,27 +1,22 @@
 [
     {
-        "name": "Russian - 716+",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20RU.zip",
-        "path": "/switch/"
+        "name": "Russian - 727+",
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/releases/download/Homebrews/DBI.RU.zip"
     },
     {
         "name": "Portuguese - 715",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20PTBR.zip",
-        "path": "/switch/"
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/releases/download/Homebrews/DBI.PTBR.zip"
     },
     {
         "name": "English - 658",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20EN.zip",
-        "path": "/switch/"
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/releases/download/Homebrews/DBI.EN.zip"
     },
     {
         "name": "Chinese - 647",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20ZHCN.zip",
-        "path": "/switch/"
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/releases/download/Homebrews/DBI.ZHCN.zip"
     },
     {
         "name": "Only Config - With notUltraNX",
-        "url": "https://github.com/Ultra-NX/Ultra-Resources/raw/main/homebrews/DBI%20Config.zip",
-        "path": "/switch/"
+        "url": "https://github.com/Ultra-NX/Ultra-Resources/releases/download/Homebrews/DBI.Config.zip"
     }
 ]
