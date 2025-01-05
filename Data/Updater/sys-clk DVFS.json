@@ -5,6 +5,46 @@
         "comm": "remove-ini-key"
     },
     {
+        "name": "450 mV",
+        "value": "450"
+    },
+    {
+        "name": "455 mV",
+        "value": "455"
+    },
+    {
+        "name": "460 mV",
+        "value": "460"
+    },
+    {
+        "name": "465 mV",
+        "value": "465"
+    },
+    {
+        "name": "470 mV",
+        "value": "470"
+    },
+    {
+        "name": "475 mV",
+        "value": "475"
+    },
+    {
+        "name": "480 mV",
+        "value": "480"
+    },
+    {
+        "name": "485 mV",
+        "value": "485"
+    },
+    {
+        "name": "490 mV",
+        "value": "490"
+    },
+    {
+        "name": "495 mV",
+        "value": "495"
+    },
+    {
         "name": "500 mV",
         "value": "500"
     },
