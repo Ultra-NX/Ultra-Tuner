@@ -1,0 +1,171 @@
+[
+    {
+        "name": "Auto",
+        "value": "0",
+        "comm": "remove-ini-key"
+    },
+    {
+        "name": "500 mV",
+        "value": "500"
+    },
+    {
+        "name": "505 mV",
+        "value": "505"
+    },
+    {
+        "name": "510 mV",
+        "value": "510"
+    },
+    {
+        "name": "515 mV",
+        "value": "515"
+    },
+    {
+        "name": "520 mV",
+        "value": "520"
+    },
+    {
+        "name": "525 mV",
+        "value": "525"
+    },
+    {
+        "name": "530 mV",
+        "value": "530"
+    },
+    {
+        "name": "535 mV",
+        "value": "535"
+    },
+    {
+        "name": "540 mV",
+        "value": "540"
+    },
+    {
+        "name": "545 mV",
+        "value": "545"
+    },
+    {
+        "name": "550 mV",
+        "value": "550"
+    },
+    {
+        "name": "555 mV",
+        "value": "555"
+    },
+    {
+        "name": "560 mV",
+        "value": "560"
+    },
+    {
+        "name": "565 mV",
+        "value": "565"
+    },
+    {
+        "name": "570 mV",
+        "value": "570"
+    },
+    {
+        "name": "575 mV",
+        "value": "575"
+    },
+    {
+        "name": "580 mV",
+        "value": "580"
+    },
+    {
+        "name": "585 mV",
+        "value": "585"
+    },
+    {
+        "name": "590 mV",
+        "value": "590"
+    },
+    {
+        "name": "595 mV",
+        "value": "595"
+    },
+    {
+        "name": "600 mV",
+        "value": "600"
+    },
+    {
+        "name": "605 mV",
+        "value": "605"
+    },
+    {
+        "name": "610 mV",
+        "value": "610"
+    },
+    {
+        "name": "615 mV",
+        "value": "615"
+    },
+    {
+        "name": "620 mV",
+        "value": "620"
+    },
+    {
+        "name": "625 mV",
+        "value": "625"
+    },
+    {
+        "name": "630 mV",
+        "value": "630"
+    },
+    {
+        "name": "635 mV",
+        "value": "635"
+    },
+    {
+        "name": "640 mV",
+        "value": "640"
+    },
+    {
+        "name": "645 mV",
+        "value": "645"
+    },
+    {
+        "name": "650 mV",
+        "value": "650"
+    },
+    {
+        "name": "655 mV",
+        "value": "655"
+    },
+    {
+        "name": "660 mV",
+        "value": "660"
+    },
+    {
+        "name": "665 mV",
+        "value": "665"
+    },
+    {
+        "name": "670 mV",
+        "value": "670"
+    },
+    {
+        "name": "675 mV",
+        "value": "675"
+    },
+    {
+        "name": "680 mV",
+        "value": "680"
+    },
+    {
+        "name": "685 mV",
+        "value": "685"
+    },
+    {
+        "name": "690 mV",
+        "value": "690"
+    },
+    {
+        "name": "695 mV",
+        "value": "695"
+    },
+    {
+        "name": "700 mV",
+        "value": "700"
+    }
+]
