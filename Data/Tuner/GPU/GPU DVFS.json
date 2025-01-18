@@ -1,8 +1,7 @@
 [
     {
         "name": "Auto",
-        "value": "0",
-        "comm": "remove-ini-key"
+        "value": "0"
     },
     {
         "name": "450 mV",
