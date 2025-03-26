@@ -11,6 +11,11 @@
         "path4": "/switch/Fizeau/"
     },
     {
+        "name": "NX-FanControl",
+        "path1": "/atmosphere/contents/00FF0000B378D640/",
+        "path2": "/config/NX-FanControl/"
+    },
+    {
         "name": "sys-ftpd",
         "path1": "/atmosphere/contents/420000000000000E/",
         "path2": "/config/sys-ftpd/"
