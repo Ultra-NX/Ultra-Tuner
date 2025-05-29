@@ -2,9 +2,7 @@
     {
         "name": "Auto",
         "label": "Auto",
-        "comm": "hex-by-custom-offset",
-        "dec": "0",
-        "hex": "0000"
+        "dec": "0"
     },
     {
         "name": "450 mV",
