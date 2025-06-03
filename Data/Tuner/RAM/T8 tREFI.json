@@ -1,37 +1,30 @@
 [
     {
-        "name": "[0] - 1x REFI",
-        "label": "[0]",
-        "hex": "0"
+        "name": "(1x REFI)                           [0]",
+        "dec": "0"
     },
     {
-        "name": "[1] - 1.5x REFI",
-        "label": "[1]",
-        "hex": "1"
+        "name": "(1.5x REFI)                          [1]",
+        "dec": "1"
     },
     {
-        "name": "[2] - 2x REFI",
-        "label": "[2]",
-        "hex": "2"
+        "name": "(2x REFI)                           [2]",
+        "dec": "2"
     },
     {
-        "name": "[3] - 3x REFI",
-        "label": "[3]",
-        "hex": "3"
+        "name": "(3x REFI)                           [3]",
+        "dec": "3"
     },
     {
-        "name": "[4] - 4x REFI",
-        "label": "[4]",
-        "hex": "4"
+        "name": "(4x REFI)                           [4]",
+        "dec": "4"
     },
     {
-        "name": "[5] - 6x REFI",
-        "label": "[5]",
-        "hex": "5"
+        "name": "(6x REFI)                           [5]",
+        "dec": "5"
     },
     {
-        "name": "[6] - MAX REFI",
-        "label": "[6]",
-        "hex": "6"
+        "name": "(MAX REFI)                         [6]",
+        "dec": "6"
     }
 ]
