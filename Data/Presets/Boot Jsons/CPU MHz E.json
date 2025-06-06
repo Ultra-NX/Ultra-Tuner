@@ -1,9 +1,9 @@
 [
     {
-        "null": "Unavailable",
+        "null": "None",
         "00": "2091 MHz",
         "01": "2295 MHz",
-        "02": "Unavailable",
-        "03": "Unavailable"
+        "02": "None",
+        "03": "None"
     }
 ]
