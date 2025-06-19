@@ -1,10 +1,5 @@
 [
     {
-        "name": "Unset",
-        "label": "Unset",
-        "dec": "0"
-    },
-    {
         "name": "700 mV",
         "label": "700 mV",
         "dec": "700"

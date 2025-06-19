@@ -1,27 +1,26 @@
 # Ultra Tuner by **[redraz](https://github.com/redraz)**
 
-### [Группа в телеграме](https://t.me/UltraNX) | [Ultra-NX](https://github.com/Ultra-NX/Ultra)
+### [Группа в телеграме](https://t.me/UltraNX) | [UltraNX](https://github.com/Ultra-NX/Ultra)
 
 ### Ultra Tuner - Лучшее решение для конфигурации разгона на Nintendo Switch!
 
 ## Особенности Ultra Tuner
-* Самый первый конфигуратор разгона на свитче, все аналоги были сделаны на основе Тюнера
+* Был первым, и остается неповторимым
 * С первого своего появления полноценно поддерживает Эристы
 * Удобная и понятная структура, и широкий функционал
 * Отображение всех важных настроек на паре страниц - в меню Current
 * Множество встроенных Пресетов разгона, с которыми вам не придется вручную перебирать десятки таймингов и вольтажей
 * Уникальная система бэкапов настроек разгона, ваши бэкапы будут актуальны даже после обновлений Сьюта/Свитчкрафта!
-* Выбор пресетов микро оверлея [Ultra Status Monitor](https://github.com/Ultra-NX/Ultra-Status-Monitor), где есть как классические варианты (Masagrator, Meha), так и уйма уникальных
+* Выбор пресетов микро оверлея [Status Monitor Ultra](https://github.com/Ultra-NX/Ultra-Status-Monitor), где есть как классические варианты (Masagrator, Meha), так и уйма уникальных
 * Множество дополнительных настроек, как:
-   * Обновление через встроенный Updater
-   * Скачивание ряда полезных Homebrew
-   * Установка модов на Zelda: TotK
+   * Обновление разных компонентов через встроенный Updater
+   * Скачивание ряда полезных Homebrew (а так же возможность их удаления)
+   * Установка и конфигурация модов UltraCam на игры Zelda
    * Детальная настройка системы охлаждения
-   * Возможность включить 4х поточное hbl меню
-   * Отключение фоновых сервисов влияющих на потребление в режиме сна
-   * Настройка битрейта и частоты кадров фоновой записи игр (Выбор длительности в секундах)
+   * Настройка битрейта и частоты кадров фоновой записи игр (выбор длительности в секундах)
+   * 8GB RAM патч для обладателей подобного мода памяти
 
-## Ultra-NX
+## UltraNX
 Ultra Tuner делается для лучшей CFW для Nintendo Switch - [Ultra-NX](https://github.com/Ultra-NX/Ultra). Обязательно попробуйте ее, если вам понравился Tuner
 
 ## Благодарности 
@@ -40,10 +39,11 @@ Ultra Tuner делается для лучшей CFW для Nintendo Switch - [U
 ### Tinkoff QR
 ![](https://github.com/Ultra-NX/Ultra-Resources/raw/main/Tinkoff%20small.png)
 ```
-TON:  UQDioCnnPI5sk4KvxWzfPWsWbAyWCkzwhaYjy8Qpg2QwWMiL
-BTC:  1HsC4z8X1YkZzcSKZz1t7MXRa7rPi8qChV
-USDT: TQi3qLVrNGcr6avfVQBXRjpPTyvp5JZ7i2
+Альфа:   2200152336577997
+Tinkoff: 2200700170486970
+Сбер:    2202200513345833
 
-Сбербанк: 2202200513345833
-Tinkoff:  2200700170486970
+TON:        UQA9My51bkGZHbYhbdRZfp6B60N7VJfsnKl0sakgw9YhAPct
+BTC:        18K6NN8NEavvMJL5Do3VTyJbL8NeZPHo93
+USDT RC20:  TUZ5szAmRsnvBuC4rFB8RaAoCbN6Ucy4sL
 ```

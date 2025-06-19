@@ -1,210 +1,262 @@
 [
     {
         "name": "Auto",
-        "value": "0"
+        "dec": "0",
+        "value": "1"
     },
     {
         "name": "450 mV",
-        "value": "450"
+        "dec": "450",
+        "value": "2"
     },
     {
         "name": "455 mV",
-        "value": "455"
+        "dec": "455",
+        "value": "2"
     },
     {
         "name": "460 mV",
-        "value": "460"
+        "dec": "460",
+        "value": "2"
     },
     {
         "name": "465 mV",
-        "value": "465"
+        "dec": "465",
+        "value": "2"
     },
     {
         "name": "470 mV",
-        "value": "470"
+        "dec": "470",
+        "value": "2"
     },
     {
         "name": "475 mV",
-        "value": "475"
+        "dec": "475",
+        "value": "2"
     },
     {
         "name": "480 mV",
-        "value": "480"
+        "dec": "480",
+        "value": "2"
     },
     {
         "name": "485 mV",
-        "value": "485"
+        "dec": "485",
+        "value": "2"
     },
     {
         "name": "490 mV",
-        "value": "490"
+        "dec": "490",
+        "value": "2"
     },
     {
         "name": "495 mV",
-        "value": "495"
+        "dec": "495",
+        "value": "2"
     },
     {
         "name": "500 mV",
-        "value": "500"
+        "dec": "500",
+        "value": "2"
     },
     {
         "name": "505 mV",
-        "value": "505"
+        "dec": "505",
+        "value": "2"
     },
     {
         "name": "510 mV",
-        "value": "510"
+        "dec": "510",
+        "value": "2"
     },
     {
         "name": "515 mV",
-        "value": "515"
+        "dec": "515",
+        "value": "2"
     },
     {
         "name": "520 mV",
-        "value": "520"
+        "dec": "520",
+        "value": "2"
     },
     {
         "name": "525 mV",
-        "value": "525"
+        "dec": "525",
+        "value": "2"
     },
     {
         "name": "530 mV",
-        "value": "530"
+        "dec": "530",
+        "value": "2"
     },
     {
         "name": "535 mV",
-        "value": "535"
+        "dec": "535",
+        "value": "2"
     },
     {
         "name": "540 mV",
-        "value": "540"
+        "dec": "540",
+        "value": "2"
     },
     {
         "name": "545 mV",
-        "value": "545"
+        "dec": "545",
+        "value": "2"
     },
     {
         "name": "550 mV",
-        "value": "550"
+        "dec": "550",
+        "value": "2"
     },
     {
         "name": "555 mV",
-        "value": "555"
+        "dec": "555",
+        "value": "2"
     },
     {
         "name": "560 mV",
-        "value": "560"
+        "dec": "560",
+        "value": "2"
     },
     {
         "name": "565 mV",
-        "value": "565"
+        "dec": "565",
+        "value": "2"
     },
     {
         "name": "570 mV",
-        "value": "570"
+        "dec": "570",
+        "value": "2"
     },
     {
         "name": "575 mV",
-        "value": "575"
+        "dec": "575",
+        "value": "2"
     },
     {
         "name": "580 mV",
-        "value": "580"
+        "dec": "580",
+        "value": "2"
     },
     {
         "name": "585 mV",
-        "value": "585"
+        "dec": "585",
+        "value": "2"
     },
     {
         "name": "590 mV",
-        "value": "590"
+        "dec": "590",
+        "value": "2"
     },
     {
         "name": "595 mV",
-        "value": "595"
+        "dec": "595",
+        "value": "2"
     },
     {
         "name": "600 mV",
-        "value": "600"
+        "dec": "600",
+        "value": "2"
     },
     {
         "name": "605 mV",
-        "value": "605"
+        "dec": "605",
+        "value": "2"
     },
     {
         "name": "610 mV",
-        "value": "610"
+        "dec": "610",
+        "value": "2"
     },
     {
         "name": "615 mV",
-        "value": "615"
+        "dec": "615",
+        "value": "2"
     },
     {
         "name": "620 mV",
-        "value": "620"
+        "dec": "620",
+        "value": "2"
     },
     {
         "name": "625 mV",
-        "value": "625"
+        "dec": "625",
+        "value": "2"
     },
     {
         "name": "630 mV",
-        "value": "630"
+        "dec": "630",
+        "value": "2"
     },
     {
         "name": "635 mV",
-        "value": "635"
+        "dec": "635",
+        "value": "2"
     },
     {
         "name": "640 mV",
-        "value": "640"
+        "dec": "640",
+        "value": "2"
     },
     {
         "name": "645 mV",
-        "value": "645"
+        "dec": "645",
+        "value": "2"
     },
     {
         "name": "650 mV",
-        "value": "650"
+        "dec": "650",
+        "value": "2"
     },
     {
         "name": "655 mV",
-        "value": "655"
+        "dec": "655",
+        "value": "2"
     },
     {
         "name": "660 mV",
-        "value": "660"
+        "dec": "660",
+        "value": "2"
     },
     {
         "name": "665 mV",
-        "value": "665"
+        "dec": "665",
+        "value": "2"
     },
     {
         "name": "670 mV",
-        "value": "670"
+        "dec": "670",
+        "value": "2"
     },
     {
         "name": "675 mV",
-        "value": "675"
+        "dec": "675",
+        "value": "2"
     },
     {
         "name": "680 mV",
-        "value": "680"
+        "dec": "680",
+        "value": "2"
     },
     {
         "name": "685 mV",
-        "value": "685"
+        "dec": "685",
+        "value": "2"
     },
     {
         "name": "690 mV",
-        "value": "690"
+        "dec": "690",
+        "value": "2"
     },
     {
         "name": "695 mV",
-        "value": "695"
+        "dec": "695",
+        "value": "2"
     },
     {
         "name": "700 mV",
-        "value": "700"
+        "dec": "700",
+        "value": "2"
     }
 ]
