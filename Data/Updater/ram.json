@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Auto Select",
+        "vendor": "{ram_vendor}",
+        "model": "{ram_model}",
+        "value": "autoram"
+    },
+    {
+        "name": "Samsung AA-MGCL",
+        "vendor": "Samsung",
+        "model": "AA-MGCL",
+        "value": "fixram"
+    },
+    {
+        "name": "Samsung AB-MGCL",
+        "vendor": "Samsung",
+        "model": "AB-MGCL",
+        "value": "fixram"
+    },
+    {
+        "name": "Samsung AM-MGCJ",
+        "vendor": "Samsung",
+        "model": "AM-MGCJ",
+        "value": "fixram"
+    },
+    {
+        "name": "Hynix NEE",
+        "vendor": "Hynix",
+        "model": "NEE",
+        "value": "fixram"
+    },
+    {
+        "name": "Hynix NME",
+        "vendor": "Hynix",
+        "model": "NME",
+        "value": "fixram"
+    },
+    {
+        "name": "Micron WTB",
+        "vendor": "Micron",
+        "model": "WTB",
+        "value": "fixram"
+    },
+    {
+        "name": "Micron WTF",
+        "vendor": "Micron",
+        "model": "WTF",
+        "value": "fixram"
+    },
+    {
+        "name": "Micron WTE",
+        "vendor": "Micron",
+        "model": "WTE",
+        "value": "fixram"
+    }
+]
