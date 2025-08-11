@@ -1,10 +1,5 @@
 [
     {
-        "name": "Auto",
-        "label": "Auto",
-        "dec": "0"
-    },
-    {
         "name": "450 mV",
         "label": "450 mV",
         "dec": "450"
