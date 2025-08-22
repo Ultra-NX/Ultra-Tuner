@@ -38,12 +38,11 @@ Ultra Tuner делается для лучшей CFW для Nintendo Switch - [U
 
 ### Tinkoff QR
 ![](https://github.com/Ultra-NX/Ultra-Resources/raw/main/Tinkoff%20small.png)
-```
-Альфа:   2200152336577997
-Tinkoff: 2200700170486970
-Сбер:    2202200513345833
 
-TON:        UQA9My51bkGZHbYhbdRZfp6B60N7VJfsnKl0sakgw9YhAPct
-BTC:        18K6NN8NEavvMJL5Do3VTyJbL8NeZPHo93
-USDT RC20:  TUZ5szAmRsnvBuC4rFB8RaAoCbN6Ucy4sL
-```
+Альфа:   ```2200152336577997```
+Tinkoff: ```2200700170486970```
+Сбер:    ```2202200513345833```
+
+TON:        ```UQA9My51bkGZHbYhbdRZfp6B60N7VJfsnKl0sakgw9YhAPct```
+BTC:        ```18K6NN8NEavvMJL5Do3VTyJbL8NeZPHo93```
+USDT RC20:  ```TUZ5szAmRsnvBuC4rFB8RaAoCbN6Ucy4sL```
