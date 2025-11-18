@@ -1,10 +1,5 @@
 [
     {
-        "name": "Auto",
-        "dec": "0000",
-        "label": "Auto"
-    },
-    {
         "name": "Disabled",
         "dec": "2000",
         "label": "Disabled"

@@ -36,8 +36,7 @@ Ultra Tuner is made for a best CFW for the Nintendo Switch - [Ultra-NX](https://
 
 If you like the project and you have a desire to support me with a penny, I will be very grateful.
 I don't have any other income at the moment, so any monetary help is very valuable to me.            
-```
-TON:        UQA9My51bkGZHbYhbdRZfp6B60N7VJfsnKl0sakgw9YhAPct
-BTC:        18K6NN8NEavvMJL5Do3VTyJbL8NeZPHo93
-USDT RC20:  TUZ5szAmRsnvBuC4rFB8RaAoCbN6Ucy4sL
-```
+
+TON:        ```UQA9My51bkGZHbYhbdRZfp6B60N7VJfsnKl0sakgw9YhAPct```
+BTC:        ```18K6NN8NEavvMJL5Do3VTyJbL8NeZPHo93```
+USDT RC20:  ```TUZ5szAmRsnvBuC4rFB8RaAoCbN6Ucy4sL```
