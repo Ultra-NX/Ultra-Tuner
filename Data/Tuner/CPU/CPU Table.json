@@ -1,27 +1,27 @@
 [
     {
-        "name": "Auto - Depends on Vmin & UV",
+        "name": "Auto",
         "label": "Auto",
         "dec": "0"
     },
     {
-        "name": "Default - Without modifications",
+        "name": "Default Table",
         "label": "Default",
         "dec": "1"
     },
     {
-        "name": "Tbreak - High MHz 1683→1581",
-        "label": "Tbreak",
+        "name": "Tbreak 1581",
+        "label": "Tbreak 1581",
         "dec": "2"
     },
     {
-        "name": "Fixated 1 - Prevents a table shift",
-        "label": "Fixated 1",
+        "name": "Tbreak 1683",
+        "label": "Tbreak 1683",
         "dec": "3"
     },
     {
-        "name": "Fixated 2 - Fix1+a bit lower volts",
-        "label": "Fixated 2",
+        "name": "Helios Table",
+        "label": "Helios",
         "dec": "4"
     }
 ]
