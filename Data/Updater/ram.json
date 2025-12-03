@@ -3,6 +3,8 @@
         "name": "Auto Select",
         "vendor": "{ram_vendor}",
         "model": "{ram_model}",
+        "footer": "set-footer",
+        "autoram": "exec",
         "value": "autoram"
     },
     {
