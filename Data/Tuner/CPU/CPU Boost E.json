@@ -1,54 +1,67 @@
 [
     {
         "name": "1020 MHz",
-        "dec": "1020"
+        "label": "1020 MHz",
+        "dec": "1020000"
     },
     {
         "name": "1122 MHz",
-        "dec": "1122"
+        "label": "1122 MHz",
+        "dec": "1122000"
     },
     {
         "name": "1224 MHz",
-        "dec": "1224"
+        "label": "1224 MHz",
+        "dec": "1224000"
     },
     {
         "name": "1326 MHz",
-        "dec": "1326"
+        "label": "1326 MHz",
+        "dec": "1326000"
     },
     {
         "name": "1428 MHz",
-        "dec": "1428"
+        "label": "1428 MHz",
+        "dec": "1428000"
     },
     {
         "name": "1581 MHz",
-        "dec": "1581"
+        "label": "1581 MHz",
+        "dec": "1581000"
     },
     {
         "name": "1683 MHz",
-        "dec": "1683"
+        "label": "1683 MHz",
+        "dec": "1683000"
     },
     {
-        "name": "1785 MHz - Default",
-        "dec": "1785"
+        "name": "1785 MHz - Stock",
+        "label": "1785 MHz",
+        "dec": "1785000"
     },
     {
         "name": "1887 MHz",
-        "dec": "1887"
+        "label": "1887 MHz",
+        "dec": "1887000"
     },
     {
         "name": "1963 MHz",
-        "dec": "1963"
+        "label": "1963 MHz",
+        "dec": "1963500"
     },
     {
         "name": "2091 MHz",
-        "dec": "2091"
+        "label": "2091 MHz",
+        "dec": "2091000"
     },
     {
         "name": "2193 MHz",
-        "dec": "2193"
+        "label": "2193 MHz",
+        "dec": "2193000"
     },
     {
         "name": "2295 MHz",
-        "dec": "2295"
+        "label": "2295 MHz",
+        "dec": "2295000"
     }
 ]
