@@ -1,18 +1,27 @@
 [
     {
         "name": "1963 MHz",
-        "dec": "2"
+        "label": "1963 MHz",
+        "hex": "02"
     },
     {
         "name": "2397 MHz",
-        "dec": "0"
+        "label": "2397 MHz",
+        "hex": "00"
     },
     {
         "name": "2499 MHz",
-        "dec": "3"
+        "label": "2499 MHz",
+        "hex": "03"
     },
     {
         "name": "2601 MHz",
-        "dec": "1"
+        "label": "2601 MHz",
+        "hex": "01"
+    },
+    {
+        "name": "2703 MHz [!]",
+        "label": "2703 MHz",
+        "hex": "4D"
     }
 ]

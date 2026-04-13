@@ -18,7 +18,8 @@
     {
         "name": "NX-FanControl",
         "path1": "/atmosphere/contents/00FF0000B378D640/",
-        "path2": "/config/NX-FanControl/"
+        "path2": "/config/NX-FanControl/",
+        "path3": "/switch/.overlays/Nx-FanControl.ovl"
     },
     {
         "name": "sys-ftpd",

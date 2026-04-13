@@ -3,8 +3,8 @@
         "null": "None",
         "00": "Auto",
         "01": "Default",
-        "02": "Tbreak",
-        "03": "Fixated 1",
-        "04": "Fixated 2"
+        "02": "Tbreak 1581",
+        "03": "Tbreak 1683",
+        "04": "Helios"
     }
 ]

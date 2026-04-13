@@ -3,6 +3,7 @@
         "name": "Auto Select",
         "vendor": "{ram_vendor}",
         "model": "{ram_model}",
+        "autoram": "exec",
         "value": "autoram"
     },
     {
