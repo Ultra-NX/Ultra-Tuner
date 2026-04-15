@@ -1,22 +1,27 @@
 [
     {
         "name": "Auto",
+        "label": "Auto",
         "dec": "0"
     },
     {
         "name": "2133 WL - 18",
+        "label": "2133 WL",
         "dec": "18"
     },
     {
         "name": "1866 WL - 16",
+        "label": "1866 WL",
         "dec": "16"
     },
     {
         "name": "1600 WL - 14",
+        "label": "1600 WL",
         "dec": "14"
     },
     {
         "name": "1333 WL - 12",
+        "label": "1333 WL",
         "dec": "12"
     }
 ]
