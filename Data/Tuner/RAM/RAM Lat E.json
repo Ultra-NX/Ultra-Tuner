@@ -1,8 +1,10 @@
 [
     {
-        "name": "1600 MHz - Stock",
-        "label": "1600 MHz",
-        "dec": "1600000"
+        "name": "Unset",
+        "label": "Unset",
+        "dec": "0",
+        "command": "hex-by-custom-offset",
+        "hex": "00000000"
     },
     {
         "name": "1862 MHz - Default",
