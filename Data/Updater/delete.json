@@ -27,6 +27,11 @@
         "path2": "/config/sys-ftpd/"
     },
     {
+        "name": "sys-dock",
+        "path1": "/atmosphere/contents/42000000000000A0/",
+        "path2": "/switch/.overlays/sys-tune-overlay.ovl"
+    },
+    {
         "name": "sys-tune",
         "path1": "/atmosphere/contents/4200000000000000/",
         "path2": "/config/sys-tune/",
