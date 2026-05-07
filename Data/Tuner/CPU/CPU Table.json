@@ -1,27 +1,22 @@
 [
     {
-        "name": "Auto",
-        "label": "Auto",
-        "dec": "0"
-    },
-    {
         "name": "Default Table",
         "label": "Default",
         "dec": "1"
     },
     {
-        "name": "Tbreak 1581",
-        "label": "Tbreak 1581",
+        "name": "1581MHz Tbreak",
+        "label": "1581 Tb",
         "dec": "2"
     },
     {
-        "name": "Tbreak 1683",
-        "label": "Tbreak 1683",
+        "name": "1683MHz Tbreak",
+        "label": "1683 Tb",
         "dec": "3"
     },
     {
-        "name": "Helios Table",
-        "label": "Helios",
+        "name": "Extreme UV",
+        "label": "Ext. UV",
         "dec": "4"
     }
 ]

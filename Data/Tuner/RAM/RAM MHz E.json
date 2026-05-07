@@ -40,7 +40,7 @@
         "dec": "1977600"
     },
     {
-        "name": "1996 MHz",
+        "name": "1996 MHz - JEDEC",
         "label": "1996 MHz",
         "dec": "1996800"
     },
@@ -75,7 +75,7 @@
         "dec": "2112000"
     },
     {
-        "name": "2131 MHz",
+        "name": "2131 MHz - JEDEC",
         "label": "2131 MHz",
         "dec": "2131200"
     },
@@ -145,48 +145,8 @@
         "dec": "2380800"
     },
     {
-        "name": "2400 MHz",
+        "name": "2400 MHz - JEDEC",
         "label": "2400 MHz",
         "dec": "2400000"
-    },
-    {
-        "name": "2419 MHz",
-        "label": "2419 MHz",
-        "dec": "2419200"
-    },
-    {
-        "name": "2438 MHz",
-        "label": "2438 MHz",
-        "dec": "2438400"
-    },
-    {
-        "name": "2457 MHz",
-        "label": "2457 MHz",
-        "dec": "2457600"
-    },
-    {
-        "name": "2476 MHz",
-        "label": "2476 MHz",
-        "dec": "2476800"
-    },
-    {
-        "name": "2496 MHz",
-        "label": "2496 MHz",
-        "dec": "2496000"
-    },
-    {
-        "name": "2515 MHz",
-        "label": "2515 MHz",
-        "dec": "2515200"
-    },
-    {
-        "name": "2534 MHz",
-        "label": "2534 MHz",
-        "dec": "2534400"
-    },
-    {
-        "name": "2553 MHz",
-        "label": "2553 MHz",
-        "dec": "2553600"
     }
 ]

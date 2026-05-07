@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Unset",
+        "label": "Unset",
+        "dec": "0",
+        "command": "hex-by-custom-offset",
+        "hex": "00000000"
+    },
+    {
+        "name": "1000 mV",
+        "label": "1000 mV",
+        "dec": "1000"
+    },
+    {
+        "name": "1025 mV",
+        "label": "1025 mV",
+        "dec": "1025"
+    },
+    {
+        "name": "1050 mV",
+        "label": "1050 mV",
+        "dec": "1050"
+    },
+    {
+        "name": "1075 mV",
+        "label": "1075 mV",
+        "dec": "1075"
+    },
+    {
+        "name": "1100 mV - [!]",
+        "label": "1100 mV",
+        "dec": "1100"
+    },
+    {
+        "name": "1125 mV - [!]",
+        "label": "1125 mV",
+        "dec": "1125"
+    },
+    {
+        "name": "1150 mV - [!!]",
+        "label": "1150 mV",
+        "dec": "1150"
+    },
+    {
+        "name": "1175 mV - [!!]",
+        "label": "1175 mV",
+        "dec": "1175"
+    },
+    {
+        "name": "1200 mV - [!!!]",
+        "label": "1200 mV",
+        "dec": "1200"
+    }
+]
