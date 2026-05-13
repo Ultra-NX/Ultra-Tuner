@@ -13,6 +13,7 @@
         "SC-1.6.4": "converter-SC",
         "SC-1.6.8": "converter-SC",
         "HOC-1.2.1": "converter-1.2.1",
-        "HOC-2.1.0": "restore"
+        "HOC-2.1.0": "converter-2.1.0",
+        "HOC-2.3.0": "restore"
     }
 ]

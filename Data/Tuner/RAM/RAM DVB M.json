@@ -1,87 +1,67 @@
 [
     {
+        "name": "-100 mV - [-4]",
+        "label": "-100 mV",
+        "hex": "FCFFFFFF"
+    },
+    {
+        "name": "-75 mV - [-3]",
+        "label": "-75 mV",
+        "hex": "FDFFFFFF"
+    },
+    {
+        "name": "-50 mV - [-2]",
+        "label": "-50 mV",
+        "hex": "FEFFFFFF"
+    },
+    {
+        "name": "-25 mV - [-1]",
+        "label": "-25 mV",
+        "hex": "FFFFFFFF"
+    },
+    {
         "name": "Unset - [0]",
         "label": "Unset",
-        "hex": "00"
+        "hex": "00000000"
     },
     {
         "name": "+25 mV - [1]",
         "label": "+25 mV",
-        "hex": "01"
+        "hex": "01000000"
     },
     {
         "name": "+50 mV - [2]",
         "label": "+50 mV",
-        "hex": "02"
+        "hex": "02000000"
     },
     {
         "name": "+75 mV - [3]",
         "label": "+75 mV",
-        "hex": "03"
+        "hex": "03000000"
     },
     {
         "name": "+100 mV - [4]",
         "label": "+100 mV",
-        "hex": "04"
+        "hex": "04000000"
     },
     {
         "name": "+125 mV - [5]",
         "label": "+125 mV",
-        "hex": "05"
+        "hex": "05000000"
     },
     {
         "name": "+150 mV - [6]",
         "label": "+150 mV",
-        "hex": "06"
+        "hex": "06000000"
     },
     {
         "name": "+175 mV - [7]",
         "label": "+175 mV",
-        "hex": "07"
+        "hex": "07000000"
     },
     {
         "name": "+200 mV - [8]",
         "label": "+200 mV",
-        "hex": "08"
-    },
-    {
-        "name": "+225 mV - [9]",
-        "label": "+225 mV",
-        "hex": "09"
-    },
-    {
-        "name": "+250 mV - [10]",
-        "label": "+250 mV",
-        "hex": "0A"
-    },
-    {
-        "name": "+275 mV - [11]",
-        "label": "+275 mV",
-        "hex": "0B"
-    },
-    {
-        "name": "+300 mV - [12]",
-        "label": "+300 mV",
-        "hex": "0C"
-    },
-    {
-        "name": "+325 mV - [13]",
-        "label": "+325 mV",
-        "hex": "0D"
-    },
-    {
-        "name": "+350 mV - [14]",
-        "label": "+350 mV",
-        "hex": "0E"
-    },
-    {
-        "name": "+375 mV - [15]",
-        "label": "+375 mV",
-        "hex": "0F"
-    },
-    {
-        "name": "+400 mV - [16]",
-        "label": "+400 mV",
-        "hex": "10"
+        "hex": "08000000"
     }
 ]
