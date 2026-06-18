@@ -2,9 +2,7 @@
     {
         "name": "Unset",
         "label": "Unset",
-        "dec": "0",
-        "command": "hex-by-custom-offset",
-        "hex": "00000000"
+        "dec": "0"
     },
     {
         "name": "1862 MHz - Default",

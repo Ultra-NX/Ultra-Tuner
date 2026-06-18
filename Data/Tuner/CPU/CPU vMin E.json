@@ -1,30 +1,5 @@
 [
     {
-        "name": "725 mV",
-        "label": "725 mV",
-        "dec": "725"
-    },
-    {
-        "name": "730 mV",
-        "label": "730 mV",
-        "dec": "730"
-    },
-    {
-        "name": "735 mV",
-        "label": "735 mV",
-        "dec": "735"
-    },
-    {
-        "name": "740 mV",
-        "label": "740 mV",
-        "dec": "740"
-    },
-    {
-        "name": "745 mV",
-        "label": "745 mV",
-        "dec": "745"
-    },
-    {
         "name": "750 mV",
         "label": "750 mV",
         "dec": "750"

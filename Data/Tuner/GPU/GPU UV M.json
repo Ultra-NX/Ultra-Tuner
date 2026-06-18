@@ -1,14 +1,22 @@
 [
     {
-        "name": "HiOPT                  [0]",
+        "name": "Disable                [0]",
         "dec": "0"
     },
     {
-        "name": "HiOPT+                [1]",
+        "name": "SLT Table             [1]",
         "dec": "1"
     },
     {
-        "name": "High UV               [2]",
+        "name": "HiOPT                  [2]",
         "dec": "2"
+    },
+    {
+        "name": "HiOPT -15 mV      [3]",
+        "dec": "3"
+    },
+    {
+        "name": "High UV               [4]",
+        "dec": "4"
     }
 ]

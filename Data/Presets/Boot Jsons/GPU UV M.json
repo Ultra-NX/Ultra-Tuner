@@ -1,9 +1,10 @@
 [
     {
         "null": "None",
-        "00": "HiOPT",
-        "01": "HiOPT+",
-        "02": "High UV",
-        "03": "Custom"
+        "00": "Disable",
+        "01": "SLT Table",
+        "02": "HiOPT",
+        "03": "HiOPT -15 mV",
+        "04": "High UV"
     }
 ]

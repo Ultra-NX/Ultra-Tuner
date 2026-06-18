@@ -1,14 +1,14 @@
 [
     {
-        "name": "Default                 [0]",
+        "name": "Disable                [0]",
         "dec": "0"
     },
     {
-        "name": "M Static               [1]",
+        "name": "SLT Table             [1]",
         "dec": "1"
     },
     {
-        "name": "High UV               [2]",
+        "name": "HiOPT                  [2]",
         "dec": "2"
     }
 ]

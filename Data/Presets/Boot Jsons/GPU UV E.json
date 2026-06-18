@@ -1,9 +1,8 @@
 [
     {
         "null": "None",
-        "00": "Default",
-        "01": "M Static",
-        "02": "High UV",
-        "03": "Custom"
+        "00": "Disable",
+        "01": "SLT Table",
+        "02": "HiOPT"
     }
 ]
