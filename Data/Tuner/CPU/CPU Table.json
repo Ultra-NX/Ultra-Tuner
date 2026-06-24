@@ -1,21 +1,21 @@
 [
     {
-        "name": "Default Table",
+        "name": "Default - Default Table",
         "label": "Default",
         "dec": "1"
     },
     {
-        "name": "1581MHz Tbreak",
+        "name": "1581 Tb - MHz Tbreak",
         "label": "1581 Tb",
         "dec": "2"
     },
     {
-        "name": "1683MHz Tbreak",
+        "name": "1683 Tb - MHz Tbreak",
         "label": "1683 Tb",
         "dec": "3"
     },
     {
-        "name": "Extreme UV",
+        "name": "Ext. UV - Extreme UV",
         "label": "Ext. UV",
         "dec": "4"
     }
