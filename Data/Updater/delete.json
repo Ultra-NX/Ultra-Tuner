@@ -22,9 +22,11 @@
         "path3": "/switch/.overlays/Nx-FanControl.ovl"
     },
     {
-        "name": "sys-ftpd",
-        "path1": "/atmosphere/contents/420000000000000E/",
-        "path2": "/config/sys-ftpd/"
+        "name": "sys-ftp(d)",
+        "path1": "/atmosphere/contents/420000000000011B/",
+        "path2": "/config/ftpsrv/",
+        "path3": "/atmosphere/contents/420000000000000E/",
+        "path4": "/config/sys-ftpd/"
     },
     {
         "name": "sys-dock",
