@@ -4,6 +4,13 @@
         "path1": "/atmosphere/exefs_patches/am/"
     },
     {
+        "name": "LANywhere",
+        "path1": "/atmosphere/contents/4200000000000010/",
+        "path2": "/lanywhere/",
+        "path3": "/switch/.overlays/lanywhere.ovl",
+        "path4": "/switch/lanywhere.nro"
+    },
+    {
         "name": "Fizeau",
         "path1": "/atmosphere/contents/0100000000000F12/",
         "path2": "/config/Fizeau/",
