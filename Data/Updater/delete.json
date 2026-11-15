@@ -8,7 +8,8 @@
         "path1": "/atmosphere/contents/4200000000000010/",
         "path2": "/lanywhere/",
         "path3": "/switch/.overlays/lanywhere.ovl",
-        "path4": "/switch/lanywhere.nro"
+        "path4": "/switch/lanywhere.nro",
+        "path5": "/switch/lanywhere-recovery.nro"
     },
     {
         "name": "Fizeau",
