@@ -7,7 +7,7 @@
         "name": "LANywhere",
         "path1": "/atmosphere/contents/4200000000000010/",
         "path2": "/lanywhere/",
-        "path3": "/switch/.overlays/lanywhere.ovl",
+        "path3": "/switch/.overlays/lanywhere*.ovl",
         "path4": "/switch/lanywhere.nro"
     },
     {
