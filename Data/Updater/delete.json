@@ -4,7 +4,7 @@
         "path1": "/atmosphere/exefs_patches/am/"
     },
     {
-        "name": "LANywhere",
+        "name": "RoomCircuit",
         "path1": "/atmosphere/contents/4200000000000010/",
         "path2": "/lanywhere/",
         "path3": "/switch/.overlays/lanywhere*.ovl",
