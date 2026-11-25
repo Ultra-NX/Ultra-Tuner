@@ -6,8 +6,9 @@
     {
         "name": "RoomCircuit",
         "path1": "/atmosphere/contents/4200000000000010/",
-        "path2": "/switch/.overlays/RoomCircuit.ovl",
-        "path3": "/switch/RoomCircuit/"
+        "path2": "/config/RoomCircuit/",
+        "path3": "/switch/.overlays/RoomCircuit.ovl",
+        "path4": "/switch/RoomCircuit/"
     },
     {
         "name": "Fizeau",
